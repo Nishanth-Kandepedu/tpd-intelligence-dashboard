@@ -1,29 +1,49 @@
 import json
-from pathlib import Path
 import streamlit as st
+from pathlib import Path
 
 # =========================
-# PAGE CONFIG
+# CONFIG
 # =========================
 st.set_page_config(
     page_title="TPD Intelligence Dashboard",
-    layout="wide",
+    layout="wide"
 )
 
 # =========================
 # LOAD DATA (READ-ONLY)
 # =========================
-PROGRAMS_PATH = Path("data/final/programs.json")
-SUMMARIES_PATH = Path("data/final/program_summaries_timeaware.json")
+DATA_DIR = Path("data/final")
 
-programs = json.load(open(PROGRAMS_PATH))
-summaries = json.load(open(SUMMARIES_PATH))
+programs = json.load(open(DATA_DIR / "programs.json"))
+summaries_timeaware = json.load(open(DATA_DIR / "program_summaries_timeaware.json"))
+summaries_static = json.load(open(DATA_DIR / "program_summaries.json"))
 
-# Index summaries for fast lookup
-summary_index = {
-    (s["company"].lower(), s["program_name"]): s
-    for s in summaries
-}
+# =========================
+# INDEX DATA
+# =========================
+program_index = {(p["company"], p["program_name"]): p for p in programs}
+timeaware_index = {(s["company"], s["program_name"]): s for s in summaries_timeaware}
+static_index = {(s["company"], s["program_name"]): s for s in summaries_static}
+
+companies = sorted({p["company"] for p in programs})
+
+# =========================
+# SIDEBAR
+# =========================
+st.sidebar.title("Filters")
+
+company = st.sidebar.selectbox("Company", companies)
+
+company_programs = sorted(
+    p["program_name"]
+    for p in programs
+    if p["company"] == company
+)
+
+program = st.sidebar.selectbox("Program", company_programs)
+
+key = (company, program)
 
 # =========================
 # HEADER
@@ -31,64 +51,66 @@ summary_index = {
 st.title("🧬 TPD Intelligence Dashboard")
 st.caption("Time-aware, evidence-backed program summaries")
 
-# =========================
-# SIDEBAR FILTERS
-# =========================
-companies = sorted(set(p["company"] for p in programs))
-company = st.sidebar.selectbox("Company", companies)
-
-company_programs = sorted(
-    [p for p in programs if p["company"] == company],
-    key=lambda x: x["program_name"]
-)
-
-program_names = [p["program_name"] for p in company_programs]
-program_name = st.sidebar.selectbox("Program", program_names)
-
-program = next(
-    p for p in company_programs if p["program_name"] == program_name
-)
-
-summary = summary_index.get((company.lower(), program_name))
+st.markdown(f"## {program}")
 
 # =========================
-# MAIN CONTENT
+# SUMMARY (WITH FALLBACK)
 # =========================
-st.subheader(program_name)
+summary_text = None
+evidence = []
 
-# ---------- SUMMARY ----------
-if summary:
-    st.markdown(summary["summary"])
+if key in timeaware_index:
+    summary_text = timeaware_index[key].get("summary")
+    evidence = timeaware_index[key].get("evidence", [])
+
+elif key in static_index:
+    summary_text = static_index[key].get("summary")
+    evidence = static_index[key].get("evidence", [])
+
+if summary_text:
+    st.markdown(summary_text)
 else:
     st.warning("No summary available for this program.")
 
-st.divider()
+# =========================
+# PROGRAM FACTS (COLLAPSIBLE, COMMA-SEPARATED)
+# =========================
+program_data = program_index.get(key)
 
-# ---------- PROGRAM FACTS ----------
-st.subheader("Program Facts")
+if program_data:
+    with st.expander("Program Facts", expanded=False):
 
-def render_list(title, items):
-    if items:
-        st.markdown(f"**{title}:**")
-        for i in sorted(items):
-            st.markdown(f"- {i}")
+        def render_field(label, values):
+            if values:
+                st.markdown(
+                    f"**{label}:** " + ", ".join(values)
+                )
 
-render_list("Targets", program.get("targets"))
-render_list("Modalities", program.get("modalities"))
-render_list("E3 Ligases", program.get("e3_ligases"))
-render_list("Indications", program.get("indications"))
-render_list("Therapeutic Areas", program.get("therapeutic_areas"))
-render_list("Clinical Phases", program.get("clinical_phases"))
+        render_field("Targets", program_data.get("targets"))
+        render_field("Indications", program_data.get("indications"))
+        render_field("Therapeutic Areas", program_data.get("therapeutic_areas"))
+        render_field("Modalities", program_data.get("modalities"))
+        render_field("E3 Ligases", program_data.get("e3_ligases"))
+        render_field("Clinical Phases", program_data.get("clinical_phases"))
 
-st.divider()
+# =========================
+# SOURCE EVIDENCE
+# =========================
+st.markdown("---")
+st.markdown("### Source Evidence")
 
-# ---------- SOURCE EVIDENCE ----------
-st.subheader("Source Evidence")
-
-evidence = program.get("evidence", [])
 if evidence:
     for e in evidence:
-        st.markdown(f"- **{e['document']}**, slide {e['slide']}")
+        doc = e.get("document", "Unknown document")
+        slide = e.get("slide")
+        if slide:
+            st.markdown(f"- **{doc}**, slide {slide}")
+        else:
+            st.markdown(f"- **{doc}**")
 else:
-    st.info("No source evidence available.")
+    st.caption("No source evidence available.")
+
+st.caption(
+    "Generated from publicly available disclosures. Read-only demo."
+)
 
