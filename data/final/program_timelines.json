@@ -1,0 +1,5689 @@
+[
+  {
+    "company": "monte_rosa",
+    "program_name": "NEK7",
+    "timeline": {
+      "2024": {
+        "targets": [],
+        "e3_ligases": [
+          "CRBN"
+        ],
+        "modalities": [],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 9
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-8102",
+    "timeline": {
+      "2024": {
+        "targets": [
+          "NEK7"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "MGD"
+        ],
+        "claims": [
+          "favorable ADME/DMPK properties",
+          "induces selective NEK7 degradation",
+          "potent NEK7-directed MGD"
+        ],
+        "safety": [
+          "No inhibition of hERG",
+          "Oral bioavailability"
+        ]
+      },
+      "2025": {
+        "targets": [
+          "Caspase-1",
+          "IL-1",
+          "IL-17",
+          "IL-6",
+          "NEK7",
+          "NLRP3",
+          "TNF"
+        ],
+        "e3_ligases": [
+          "CRBN",
+          "cereblon"
+        ],
+        "modalities": [
+          "MGD",
+          "Molecular Glue Degrader",
+          "molecular glue degrader"
+        ],
+        "claims": [
+          "31% reduction of fibrinogen",
+          "85% sustained reduction of hsCRP",
+          "94% subjects achieved reduction of hsCRP levels to <2 mg/L",
+          "Catalytic MOA drives sustained PD effect",
+          "Changes in CRP levels in subjects with high CRP",
+          "Changes in gout/pseudogout flare pain or osteoarthritic pain",
+          "Changes in levels of inflammatory cytokines",
+          "Exquisite selectivity enables high therapeutic index",
+          "High degradation in immune and blood cells",
+          "Highly selective NEK7 degradation",
+          "Inhibits IL-1 downstream of NLRP3 inflammasome activation",
+          "Inhibits NLRP3 Activation",
+          "Inhibits upstream pyroptosis & DAMP/cytokine release",
+          "No MGD induced tox findings in 2 GLP tox studies (VAV1, NEK7)",
+          "Potent degradation of NEK7",
+          "Potential to deplete both membrane receptors and intracellular signaling nodes",
+          "Prevents IL-1 release",
+          "Prolonged pharmacodynamic effect",
+          "Reduces Caspase-1 activation",
+          "Reduction in frequency of gout/pseudogout flares",
+          "Safety, tolerability, and pharmacokinetics in healthy volunteers",
+          "Suppresses cytokine release in ex vivo-stimulated whole blood",
+          "durable NEK7 degrader",
+          "favorable AE profile",
+          "induced rapid and compelling reduction in hsCRP",
+          "inhibition of the NLRP3 inflammasome",
+          "potent",
+          "selective"
+        ],
+        "safety": [
+          ">200-fold exposure margin over projected human efficacious dose in both species",
+          "NOAEL was the highest dose tested, 150 mg/kg/day (rat) and 100 mg/kg/day (cyno)",
+          "Negative Mini-Ames",
+          "No MRT-8102 related clinical signs",
+          "No changes in immunophenotyping",
+          "No concerns related to CV safety pharmacology (cyno)",
+          "No concerns related to hERG",
+          "No concerns related to in vitro off-targets",
+          "No concerns related to in vivo respiratory or CNS safety pharmacology (rat)",
+          "No concerns related to mutagenicity",
+          "No concerns related to phototoxicity",
+          "No dose dependency",
+          "No evidence of increased infection risk",
+          "No gross or clinical pathology findings at any dose level",
+          "No inhibition (EC50> 30 \u00b5M)",
+          "Safety and tolerability",
+          "Safety, and tolerability of 28-day dosing",
+          "Treatment-emergent AEs were mild to moderate",
+          "Well tolerated with favorable safety profile with no SAEs",
+          "no SAEs",
+          "no adverse safety signals",
+          "no severe AEs"
+        ]
+      },
+      "2020": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [],
+        "safety": [
+          "Safety and tolerability of 28 days dosing"
+        ]
+      },
+      "2026": {
+        "targets": [
+          "NEK7"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "31% reduction of fibrinogen",
+          "85% sustained reduction of hsCRP",
+          "94% subjects achieved reduction of hsCRP levels to <2 mg/L",
+          "~80-90% NEK7 degradation noted in T cells"
+        ],
+        "safety": [
+          "No SAEs",
+          "no severe AEs"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Monte Rosa AHA 2025 NEK7 Poster.pdf",
+        "slide": 1
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 2
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 5
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 6
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 7
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 8
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 9
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 10
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 11
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 12
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 17
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 24
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 28
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 1
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 3
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 19
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 20
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 23
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-2359",
+    "timeline": {
+      "2024": {
+        "targets": [
+          "CRBN",
+          "GSPT1"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "molecular glue degrader"
+        ],
+        "claims": [],
+        "safety": []
+      },
+      "2023": {
+        "targets": [
+          "CK1a",
+          "GAPDH",
+          "GSPT1",
+          "GSPT2",
+          "IKZF1",
+          "IKZF3",
+          "L-MYC",
+          "MYC",
+          "N-MYC",
+          "SALL4",
+          "ZFP91",
+          "c-MYC"
+        ],
+        "e3_ligases": [
+          "CRBN",
+          "cereblon"
+        ],
+        "modalities": [
+          "MGD",
+          "molecular glue degrader",
+          "molecular glue degraders"
+        ],
+        "claims": [
+          "1 patient has SD",
+          "1 patient with NSCLC and unclear biomarker status remains on therapy for > 7 months with stable disease",
+          "2 have experienced a PR (1 confirmed, 1 unconfirmed)",
+          "2 patients experienced a PR (1 confirmed, 1 unconfirmed)",
+          "6/15 patients were identified as biomarker positive",
+          "Best-in-Class",
+          "Degradation of GSPT1 leads to downregulation of N-MYC transcriptional output in NCI-H1155",
+          "Demonstrate dose dependent PK",
+          "Demonstrate significant GSPT1 degradation at safe dose levels in PBMCs and tissue biopsies (60% based on preclinical data)",
+          "Dose dependent exposure in line with preclinical PK",
+          "Favorable ADME/DMPK profile",
+          "Favorable ADMET profile",
+          "Highly Optimized and Potent",
+          "Highly Selective",
+          "Highly Selective Recruiter and Degrader of GSPT1",
+          "Highly selective against common neosubstrates of CRBN",
+          "Induced selective GSPT1 degradation",
+          "Induces Tumor Regressions in N-MYC-driven Xenograft Models",
+          "Level of degradation equivalent across all dose levels, suggesting saturated PD response from 0.5 to 2 mg",
+          "MRT-2359 completely abrogates protein synthesis only in N-MYC high cell line",
+          "MRT-2359 induces GSPT1 degradation leading to N-MYC protein downregulation in NCI-H1155",
+          "MRT-2359 induces ribosome stalling at stop codon only in N-MYC high cell line",
+          "MRT-2359 preferentially impairs protein synthesis in tumor cells with high MYC expression",
+          "MYC down modulation",
+          "N-MYC overexpression sensitizes NCI-H2023 resistant cells to MRT-2359",
+          "No clinical activity seen in biomarker negative patients",
+          "No food effect observed",
+          "Oral bioavailable",
+          "Oral dosing shows anti-tumor activity and regressions",
+          "PD modulation in PBMCs observed across all dose levels; level of degradation (~ 60%) in line with maximal degradation observed in preclinical studies using the same method",
+          "Potent and Selective GSPT1 Degrader",
+          "Potent inducer of GSPT1-cereblon proximity",
+          "Preferential GSPT1 degradation",
+          "Preferential antiproliferative activity in N-MYC high cell lines",
+          "Preferential inhibition of translation",
+          "Resolution of liver metastases (-41% per RECIST 1.1)",
+          "Share potential preliminary efficacy signals in biomarker positive patients",
+          "Transcriptional modulation of >200 MYC target genes",
+          "Unconfirmed PR in NSCLC with SCLC/NE Transformation",
+          "clinical activity",
+          "early signs of clinical activity",
+          "favorable tolerability profile",
+          "good oral bioavailability",
+          "high selective effect (2.4 U)",
+          "highly selective",
+          "optimal PD modulation",
+          "optimal degradation kinetics",
+          "optimal pharmacodynamic modulation",
+          "orally bioavailable",
+          "preferential activity in MYC-driven cancer cells",
+          "rationally designed to be in the ADMET sweet-spot"
+        ],
+        "safety": [
+          "CEREP (Safety panel 44)",
+          "CYP DDIs",
+          "CYP DDIs (7 isoforms)",
+          "Decreased appetite",
+          "Diarrhea",
+          "Fatigue",
+          "Frequent dose interruptions due to bowel obstruction unrelated to MRT-2359",
+          "Hypokalemia",
+          "Leukopenia",
+          "Nausea",
+          "Neutropenia",
+          "No activity observed in an in vitro panel of 44 safety targets",
+          "No observed clinically significant hypocalcemia or hypotension/cytokine release syndrome",
+          "Oral bioavailability all species",
+          "Rash",
+          "Thrombocytopenia",
+          "Vomiting",
+          "hERG inhibition (patch clamp)",
+          "hERG inhibition patch clamp"
+        ]
+      },
+      "2025": {
+        "targets": [
+          "GSPT1"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "1 PR (confirmed, -57%)",
+          "1 PSA response (-90%)",
+          "2 SDs"
+        ],
+        "safety": [
+          "Safety assessments initiated",
+          "Safety profile has been favorable",
+          "Well-tolerated dose level",
+          "{\"AE\": \"Anemia\", \"G1-2\": 0, \"G3\": 0, \"G4\": 0}",
+          "{\"AE\": \"Diarrhea\", \"G1-2\": 1, \"G3\": 0, \"G4\": 0}",
+          "{\"AE\": \"Fatigue\", \"G1-2\": 0, \"G3\": 0, \"G4\": 0}",
+          "{\"AE\": \"Hypokalemia\", \"G1-2\": 0, \"G3\": 0, \"G4\": 0}",
+          "{\"AE\": \"Leukopenia\", \"G1-2\": 0, \"G3\": 0, \"G4\": 0}",
+          "{\"AE\": \"Nausea\", \"G1-2\": 3, \"G3\": 0, \"G4\": 0}",
+          "{\"AE\": \"Neutropenia\", \"G1-2\": 0, \"G3\": 0, \"G4\": 0}",
+          "{\"AE\": \"Thrombocytopenia\", \"G1-2\": 0, \"G3\": 0, \"G4\": 0}",
+          "{\"AE\": \"Vomiting\", \"G1-2\": 1, \"G3\": 0, \"G4\": 0}"
+        ]
+      },
+      "2026": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "100% PSA response",
+          "Overall disease control rate (DCR) of 64%"
+        ],
+        "safety": [
+          "mild or moderate manageable GI adverse events",
+          "well tolerated"
+        ]
+      },
+      "2022": {
+        "targets": [
+          "CK1a",
+          "GAPDH",
+          "GSPT1",
+          "GSPT2",
+          "IKZF1",
+          "IKZF3",
+          "MYC",
+          "N-MYC",
+          "SALL4",
+          "ZFP91"
+        ],
+        "e3_ligases": [
+          "CRBN"
+        ],
+        "modalities": [
+          "MGD",
+          "Molecular Glue Degrader"
+        ],
+        "claims": [
+          "Degradation of GSPT1 leads to downregulation of N-MYC transcriptional output",
+          "Downregulates N-MYC",
+          "Induces GSPT1 degradation leading to N-MYC protein downregulation",
+          "Induces degradation of GSPT1",
+          "MRT-2359 doesn\u2019t inhibit hERG",
+          "MRT-2359 has favorable ADMET profile",
+          "MRT-2359 induces ribosome stalling only in N-MYC high cell line",
+          "MRT-2359 is a selective GSPT1-directed MGD",
+          "MRT-2359 is neither an inhibitor, nor an inducer of major CYPs",
+          "MRT-2359 is orally bioavailable",
+          "MRT-2359 rapidly and completely abrogates protein synthesis only in N-MYC high cell line",
+          "N-MYC overexpression sensitizes NCI-H2023 resistant cells to MRT-2359",
+          "Oncogene addiction",
+          "Orally Bioavailable",
+          "Potent",
+          "Preferential anti-tumor activity in MYC-driven tumors",
+          "Preferential antiproliferative activity in N-MYC high cell lines",
+          "Selective",
+          "Synthetic lethality"
+        ],
+        "safety": [
+          "CYP DDIs > 30 \u00b5M",
+          "CYP2C19 @ 1.5 uM",
+          "Caco2 (Efflux Ratio)",
+          "EC50 > 30 \u00b5M",
+          "hERG (patch clamp)",
+          "hERG inhibition patch clamp"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 3
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 17
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 21
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 1
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 7
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 8
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 9
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 10
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 11
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 12
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 13
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 14
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 15
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 16
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 17
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 18
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 19
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 1
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 10
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 12
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 21
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 23
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 31
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 33
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 34
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 36
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 39
+      },
+      {
+        "document": "MRTx_AACR_2024_MRT2359_Prostate.pdf",
+        "slide": 1
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 2
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 5
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 6
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 7
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 8
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 9
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 10
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 11
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 12
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 13
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 14
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 15
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 16
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 17
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 18
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 19
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 20
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Monte Rosa AACR Poster April 2022.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 16
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 1
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 4
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 5
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 6
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 7
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 8
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 9
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 10
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 11
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 12
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 13
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 14
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 16
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-6160",
+    "timeline": {
+      "2024": {
+        "targets": [
+          "VAV1"
+        ],
+        "e3_ligases": [
+          "Cereblon",
+          "cereblon"
+        ],
+        "modalities": [
+          "MGD",
+          "molecular glue degrader"
+        ],
+        "claims": [
+          "Favorable ADME/DMPK profile",
+          "Induces selective VAV1 degradation",
+          "MRT-6160 attenuates B cell activation",
+          "MRT-6160 attenuates T cell activation",
+          "MRT-6160 reduces autoantibody production",
+          "MRT-6160 reduces joint inflammation",
+          "MRT-6160 reduces serum levels of pro-inflammatory cytokines",
+          "Potent and Selective VAV1-directed MGD",
+          "inhibits TCR-induced activation",
+          "prevents disease progression",
+          "reduces colon inflammation",
+          "reduces pro-inflammatory cytokine production"
+        ],
+        "safety": [
+          "> 50%",
+          "EC50 > 30 \u00b5M",
+          "IC50 > 30 \u00b5M"
+        ]
+      },
+      "2025": {
+        "targets": [
+          "VAV1"
+        ],
+        "e3_ligases": [
+          "cereblon"
+        ],
+        "modalities": [
+          "molecular glue degrader"
+        ],
+        "claims": [
+          "Achieved Dose-Dependent VAV1 Degradation >90% in Peripheral Blood T Cells After Single and Multiple Dose Administration",
+          "Attenuated IL-6 production by 60-90% across dose levels following B-cell stimulation",
+          "MRT-6160 has oral bioavailability",
+          "MRT-6160 inhibits EAE disease progression, severity, and incidence",
+          "MRT-6160 inhibits T and B cell activation",
+          "MRT-6160 inhibits T and B cell activation and effector functions",
+          "MRT-6160 reduces demyelination",
+          "MRT-6160 reduces pro-inflammatory cytokine levels",
+          "MRT-6160 reduces spinal cord immune cell infiltration",
+          "Marked suppression of CD69 upregulation (>90%) in peripheral blood T and B cells following TCR stimulation",
+          "Resulted in Sustained Suppression of TCR-mediated CD69 Activation following Single or Multiple Dose Administration",
+          "Significantly (up to 99%) inhibited IL-2, IFN-\u03b3 and IL-17A secretion from whole blood derived T cells following ex vivo TCR stimulation",
+          "Significantly attenuated CD69 upregulation on T and B cells following TCR stimulation, reflecting functional inhibition",
+          "Similar results observed in peripheral blood B cells following BCR stimulation",
+          "attenuates T and B cell effector functions",
+          "inhibits disease progression",
+          "reduces kidney glomerular and interstitial nephritis"
+        ],
+        "safety": [
+          "MRT-6160 was well tolerated with no serious adverse events (SAE)",
+          "Observed treatment-emergent adverse events (TEAE) were mild (82%) or moderate (18%) and self-limiting",
+          "Overall TEAE frequency was similar between MRT-6160 and placebo",
+          "Safety and tolerability",
+          "Safety, PK and PD Data from SAD and MAD Healthy Volunteers",
+          "TEAE observed in 2 or more subjects treated with MRT-6160: SAD: pain from vessel puncture (2), MAD: cough (2), diarrhea (3), feeling hot (4), headache (5), nasal congestion (2), oropharyngeal pain (3) and pyrexia (2)",
+          "early insights into safety"
+        ]
+      },
+      "2026": {
+        "targets": [
+          "VAV1"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "molecular glue degrader"
+        ],
+        "claims": [],
+        "safety": []
+      },
+      "2023": {
+        "targets": [
+          "VAV1"
+        ],
+        "e3_ligases": [
+          "Cereblon"
+        ],
+        "modalities": [
+          "molecular glue degrader"
+        ],
+        "claims": [
+          "attenuates antigen receptor-mediated activation and effector functions of T- and B-cells",
+          "attenuates disease progression in the CIA autoimmune disease model",
+          "rapidly degrades Vav1 in vivo"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 17
+      },
+      {
+        "document": "FOCIS_2025_MRT6160_EAE.pdf",
+        "slide": 1
+      },
+      {
+        "document": "MRT_EULAR_2024_MRT6160_CIA_FINAL.pdf",
+        "slide": 1
+      },
+      {
+        "document": "MRT_ECTRIMS_2025_MRT6160_EAE_FINAL_PDF.pdf",
+        "slide": 1
+      },
+      {
+        "document": "MRT_DDW_2024_MRT6160_IBD_FINAL.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 3
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 4
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 6
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 30
+      },
+      {
+        "document": "Keystone Symposia - MRT-6160.pdf",
+        "slide": 1
+      },
+      {
+        "document": "MRT_ACR_2023_MRT6160_CIA_FINAL_PDF.pdf",
+        "slide": 1
+      },
+      {
+        "document": "MRT_ACR_2025_MRT6160_SjD_FINAL.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 24
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "GSPT1",
+    "timeline": {
+      "2021": {
+        "targets": [
+          "Myc"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "molecular glue degraders"
+        ],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 6
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 2
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-9643",
+    "timeline": {
+      "2024": {
+        "targets": [
+          "CDK2"
+        ],
+        "e3_ligases": [
+          "CRBN"
+        ],
+        "modalities": [
+          "MGD",
+          "Molecular Glue Degrader"
+        ],
+        "claims": [
+          "CDK2 degradation achieves equivalent efficacy compared to anti-CDK4/6 and anti-estrogen standard of care",
+          "CDK2 degradation delays resistance to CDK4/6 inhibition",
+          "CDK2 degradation inhibits CDK2-dependent cancer cell proliferation",
+          "Favorable ADME/DMPK profile",
+          "Induces Strong Pathway Suppression",
+          "Induces highly selective CDK2 degradation",
+          "Induces robust pathway suppression in combination with breast cancer SoC",
+          "MRT-9643 counteracts resistance to CDK4/6 inhibition in HR-positive cells",
+          "MRT-9643 demonstrates activity and pathway suppression in combination with CDK4/6 inhibition",
+          "MRT-9643 exhibits potency, selectivity, and favorable drug-like properties",
+          "MRT-9643 inhibits proliferation of CDK2-dependent cancer cells",
+          "No degradation of other known CRBN neosubstrates",
+          "Potent and Highly Selective CDK2-directed MGD",
+          "Readily degrades CDK2 in vivo",
+          "induces robust tumor regression in combination with CDK4/6 inhibition and fulvestrant",
+          "induces strong TGI in combination with CDK4/6 inhibitor in vivo",
+          "induces strong TGI in combination with CDK4/6 inhibitors in vivo"
+        ],
+        "safety": [
+          "IC50 15 - >50 \u00b5M",
+          "hERG inhibition patch clamp"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "P5-01-26_Ilic-Widlund.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 13
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "AR H875Y Mutation",
+    "timeline": {
+      "2025": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "Confirmed PR"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 40
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-50969",
+    "timeline": {
+      "2024": {
+        "targets": [
+          "Cyclin E1",
+          "E2F targets",
+          "cyclin E1"
+        ],
+        "e3_ligases": [
+          "CRBN"
+        ],
+        "modalities": [
+          "Molecular Glue Degrader"
+        ],
+        "claims": [
+          "First-in-class cyclin E1 degrader for cyclin E1 amplified cancers",
+          "Induction of senescence by cyclin E1 degradation is RB-dependent",
+          "Loss of RB blunts growth suppression induced by MRT-50969",
+          "MRT-50969 degrades cyclin E1 and inhibits downstream pathway activity in vivo",
+          "MRT-50969 induces robust G1/S cell cycle arrest",
+          "MRT-50969 inhibits tumor growth in CCNE1 amplified gastric cancer model",
+          "MRT-50969 is a potent and highly selective cyclin E1-directed MGD",
+          "MRT-50969 is orally bioavailable and shows anti-tumor activity in a dose dependent manner in CCNE1-amplified cell line-derived xenograft models",
+          "MRT-50969 shows superior differential activity in CCNE1 dependent cell lines compared to clinical-stage CDK2 inhibitors",
+          "degrades cyclin E1",
+          "inhibits tumor growth"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 44
+      },
+      {
+        "document": "ENA_2024_CCNE1_poster.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 24
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 25
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 26
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-51443",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "CDK2"
+        ],
+        "e3_ligases": [
+          "CRBN"
+        ],
+        "modalities": [
+          "Molecular Glue Degrader"
+        ],
+        "claims": [
+          "MRT-51443 counteracts resistance to CDK4/6 inhibition in HR+ breast cancer models.",
+          "MRT-51443 displays superior selectivity compared to clinical CDK2 inhibitors.",
+          "MRT-51443 exhibits favorable PK and PD profiles.",
+          "MRT-51443 induces robust tumor regression in combination with CDK4/6 inhibition and Fulvestrant.",
+          "MRT-51443 inhibits proliferation of CDK2-dependent cancer cells.",
+          "MRT-51443 is a potent and highly selective CDK2-directed molecular glue degrader.",
+          "induces robust tumor regression in combination with CDK4/6 inhibition and fulvestrant",
+          "substantially reduces tumor growth vs. ribo + fulv"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 45
+      },
+      {
+        "document": "Selective Targeting of CDK2 Using Molecular Glue Degraders.pdf",
+        "slide": 1
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-048",
+    "timeline": {
+      "2021": {
+        "targets": [
+          "GSPT1"
+        ],
+        "e3_ligases": [
+          "cereblon"
+        ],
+        "modalities": [],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 10
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-474",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "IRAK4"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "Oral QD Small Molecule Degraders",
+          "oral degrader"
+        ],
+        "claims": [
+          "Early signs of strong clinical activity",
+          "Favorable safety profile",
+          "Robust IRAK4 degradation",
+          "Systemic suppression of proinflammatory cytokines and chemokines"
+        ],
+        "safety": [
+          "Favorable safety profile"
+        ]
+      },
+      "2021": {
+        "targets": [
+          "IRAK1",
+          "IRAK2",
+          "IRAK3",
+          "IRAK4",
+          "MyD88",
+          "TLRs",
+          "TRAF6"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "oral"
+        ],
+        "claims": [
+          "Achieved >98% IRAK4 Degradation",
+          "Achieved Near Complete and Sustained IRAK4 Degradation with Multiple Daily Oral Doses (14 Days)",
+          "Dose-dependent IRAK4 degradation in skin",
+          "IRAK4 knockdown of \u226585% in whole blood achieved anti-inflammatory effect comparable to potent corticosteroids or approved standard of care drugs",
+          "KT-474 DC50 = 2.1 nM in human immune cells",
+          "KT-474 better able to inhibit IL-6 under both LPS and LPS + IL-1\u03b2 than clinically active IRAK4 SM kinase inhibitor PF-06550833",
+          "KT-474 only degraded IRAK4 in human immune cells at concentration 10-fold above the DC90",
+          "MAD 2 through 4 approached Lower Limit of Quantitation (LLOQ)",
+          "Mean IRAK4 levels at 200 mg dose nearing LLOQ by Day 14, with knockdown up to 90% at 200 mg",
+          "Plateau in IRAK4 Reduction after 14 days in PBMC after 100 mg",
+          "Recovery towards baseline by Day 28 (2 weeks after last dose)",
+          "Reduced IRAK4 to Near LLOQ in the Skin",
+          "Steady state IRAK4 reduction achieved between Days 7 and 14",
+          "best-in-class",
+          "marked reduction of IRAK4 protein in blood and skin",
+          "prolonged suppression of IRAK4 in blood and skin",
+          "proof of biology (broad inhibition of cytokine induction)",
+          "proof of mechanism (IRAK4 degradation)",
+          "strong and broad inhibition of whole blood ex vivo cytokine induction"
+        ],
+        "safety": [
+          "Safety & tolerability",
+          "shown to be safe and well-tolerated"
+        ]
+      },
+      "2022": {
+        "targets": [
+          "CRP",
+          "IL-1\u03b2",
+          "IL-6",
+          "IRAK4",
+          "SAA"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "Associated with up to 85% inhibition of multiple disease-relevant cytokines and chemokines in ex vivo TLR stimulation assay at 100 mg dose",
+          "Dose-dependent IRAK4 degradation in skin of >50%",
+          "Generally well tolerated at doses up to 200 mg with no SAEs",
+          "IRAK4 degradation of 80-90% in PBMC using Flow Cytometry",
+          "Non-adverse, self-limiting QTcF prolongation in 10-20 msec range was neither dose- nor exposure-dependent",
+          "Reduction to near lower limit of quantification with Mass Spectrometry",
+          "demonstrating degrader vs. small molecule inhibitors (SMI) biological differentiation",
+          "modest, non-adverse QTcF prolongation observed",
+          "potential best in class oral drug",
+          "potential best in class profile in I/I",
+          "promising clinical activity exceeding benchmark placebo rates",
+          "robust degradation of IRAK4 associated with systemic anti-inflammatory effect",
+          "safety, PK and PD comparable to healthy volunteers",
+          "superior clinical potential over SMI"
+        ],
+        "safety": [
+          "Generally well tolerated at doses up to 200 mg with no SAEs",
+          "Non-adverse, self-limiting QTcF prolongation in 10-20 msec range",
+          "demonstrated fidelity of translation of PK, PD and safety across three clinical programs in I/I and oncology patients",
+          "modest, non-adverse QTcF prolongation observed to spontaneously resolve",
+          "safety, PK and PD comparable to healthy volunteers"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "Kymera R.pdf",
+        "slide": 38
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 71
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 72
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 21
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 24
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 25
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 26
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 28
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 29
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 31
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 34
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 35
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 36
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 37
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 38
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 42
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 95
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 99
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 4
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 26
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 32
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 33
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 35
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 36
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 39
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 41
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 50
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 59
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 61
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 62
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-294",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "TYK2"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "oral degrader"
+        ],
+        "claims": [
+          "Mega-blockbuster potential for oral degrader with biologic-like activity that is superior to TYK2 SMI",
+          "Potential Best-in-Class Opportunity with Biologic-like Profile"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Kymera R.pdf",
+        "slide": 65
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-621",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "CCL13/MCP-4",
+          "CCL17/TARC",
+          "CCL18/PARC",
+          "CCL26/Eotaxin-3",
+          "CXCL1/GRO-\u237a",
+          "IL-13",
+          "IL-31",
+          "IL-4",
+          "KRT16/Keratin 16",
+          "MMP12",
+          "OSMR/Oncostatin-M receptor",
+          "PI3/Peptidase inhibitor 3",
+          "POSTN/Periostin",
+          "S100A12",
+          "STAT6",
+          "TSLP"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "Oral Degrader",
+          "Oral Small Molecule Degrader",
+          "degrader"
+        ],
+        "claims": [
+          "100% responder rate in ACQ-5",
+          "56% median FeNO reduction at Day 29",
+          "74% median TARC reduction similar to dupilumab at week 4 when stratifying for patients with similar baseline TARC levels",
+          "90% STAT6 degradation leads to comparable or superior in vivo efficacy to dupilumab in asthma models",
+          ">90% STAT6 Degradation in Blood Across All Dose Levels",
+          ">90% STAT6 degradation in blood in all doses above 1.5 mg",
+          ">95% Mean STAT6 Degradation Achieved at Doses of 75 mg or Greater",
+          "Achieved 76% Overall Mean Reduction in SCORAD-Sleeplessness",
+          "Achieved >90% STAT6 Degradation in Blood at All Dose Levels Above 1.5 mg",
+          "Achieved Complete STAT6 Degradation in Skin",
+          "Achieved Median Serum Eotaxin-3 Reduction of up to 73%",
+          "Achieved Median Serum IgE Reduction of up to 14%",
+          "Achieved Median TARC Reduction of 74% in Patients with TARC Levels Comparable to Dupilumab AD Studies",
+          "Achieved Robust Clinical Improvement Across EASI-50, EASI-75, and vIGA-AD 0/1 Measures",
+          "Achieved Robust and Consistent Reductions in Itch Across Independent Clinical Measures",
+          "Achieved mean changes of -0.8 in RQLQ",
+          "Achieved mean changes of \u20130.9 in TNSS",
+          "Achieved up to 33% Reduction in FeNO in AD Patients",
+          "Blocks Th2 Inflammation in Vivo",
+          "Clinical activity",
+          "Compelling Clinical Profile",
+          "Compelling Preclinical Profile",
+          "Complete Degradation Achieved at Doses of 50 mg or Greater",
+          "Complete STAT6 Degradation in Blood",
+          "Complete STAT6 degradation achieved at doses \u22655 mg",
+          "Complete STAT6 degradation achieved in both blood and skin in all doses \u22655 mg",
+          "Complete STAT6 degradation selectivity in human PBMC at 100xDC90",
+          "Deep STAT6 Degradation in Blood and Skin",
+          "Deep STAT6 degradation in blood and skin",
+          "Deep degradation maintained throughout dosing period",
+          "Deep skin degradation with multiple patients\u2019 STAT6 levels below the LLOQ",
+          "Degrades STAT6 at Low Oral Doses in All Relevant Tissues",
+          "Demonstrate that KT-621 has a dupilumab-like biomarker signature in blood and skin lesions",
+          "Dose Responsive STAT6 Degradation in Dog Blood",
+          "Dupi-like profile",
+          "Dupilumab-like Activity in a Pill",
+          "Dupilumab-like activity",
+          "Dupilumab-like impact on EASI, SCORAD and multiple measures of pruritus",
+          "Dupilumab-like reductions in TARC, Eotaxin-3 and IgE",
+          "Dupilumab-like reductions in core Type 2 inflammation and AD disease-relevant gene sets in skin lesions",
+          "Early evidence of activity in asthma and allergic rhinitis",
+          "Efficacy and safety in two initial Th2 diseases",
+          "Excellent Preclinical Activity Comparable or Superior to Dupilumab",
+          "Exquisite Selectivity",
+          "First known demonstration of FeNO reduction in AD patients",
+          "Full Inhibition of IL-4/IL-13 Pathways, More Potent than Dupilumab",
+          "Full inhibition of IL-4/IL-13 pathways more potent than dupilumab",
+          "Fully Blocks IL-4/13 Pathway",
+          "IC50\u2019s Lower than Dupilumab",
+          "IL-4/IL-13 Pathway Inhibition",
+          "IgE reduction comparable to dupilumab data in AD studies at week 41",
+          "KT-621 reached dupilumab-like TARC inhibition",
+          "KT-621 was well-tolerated with a safety profile undifferentiated from placebo",
+          "Maximal degradation seen as quickly as 4 hours after single dose",
+          "Mean % Change from Baseline at D29 Overall: -40%",
+          "Mean % Change from Baseline at D29 for KT-621 100 mg QD: -47%",
+          "Mean % Change from Baseline at D29 for KT-621 200 mg QD: -35%",
+          "Meaningful improvements of clinical endpoints and patient-reported outcomes",
+          "Median STAT6 degradation of 94% in skin in both dose groups after 4 weeks of treatment using targeted Mass Spec",
+          "Median STAT6 degradation of 98% in blood in both dose groups after 4 weeks of treatment",
+          "Most subjects with STAT6 levels below LLOQ at doses of \u22655 mg",
+          "Multiple subjects with STAT6 levels below LLOQ at doses of 75 mg or greater",
+          "No rescue therapy required during treatment period",
+          "Only STAT6 Degradation Has the Potential to Lead to Dupilumab-Like Pathway Inhibition",
+          "Only STAT6 degradation has the potential to fully block IL-4/IL-13 signaling with an oral daily drug",
+          "Ph3 dose selection for clinical activity franchise",
+          "Plasma PK profile at 100 and 200 mg similar to healthy volunteer study",
+          "Potential for Dupilumab-like Activity",
+          "RQLQ responder rate was 33%",
+          "Rapid and robust mean Peak Pruritus NRS and SCORAD-Itch reduction in both dose cohorts",
+          "Rapid and robust mean SCORAD-Sleeplessness reduction in both dose cohorts",
+          "Rapid and robust reduction of TARC across both dose cohorts",
+          "Reduction exceeds the dupilumab 52-week results of 51% median reduction in CRSwNP trial and 38% in asthma trial",
+          "Reduction of IL-31",
+          "Results in line or superior to published data for dupilumab, with strong TARC and Eotaxin-3 reductions",
+          "Robust Degradation in Relevant Cell Types",
+          "Robust STAT6 Degradation",
+          "Robust STAT6 degradation observed at first time point measured (8hr) for all doses above 1.5 mg",
+          "Robust degradation maintained as long as 4 days after single dose with recovery by Day 14",
+          "Robust inhibition of several biomarkers, comparable/superior to published dupilumab data",
+          "Robust reduction of pruritogenic cytokine IL-31",
+          "Robust reductions in Type 2 biomarkers in blood, skin lesions and lung (FeNO)",
+          "STAT6 Degradation in All Relevant Tissues in NHP",
+          "Safety & tolerability",
+          "Safety and tolerability",
+          "Similar effect in patients with low or high baseline EASI/TARC",
+          "Single doses of KT-621 achieved rapid, deep and prolonged STAT6 degradation in blood",
+          "Steady-state maximum degradation achieved as early as 8hr post-first dose with recovery starting at 4 days post-last dose",
+          "Strong fidelity of translation from Phase 1a healthy volunteer study to AD patients",
+          "Strong translation from healthy volunteer study",
+          "TNSS responder rate was 57%",
+          "Well-tolerated in preclinical studies",
+          "blocked IL-4/13 biomarkers equally or numerically better than dupilumab",
+          "demonstrated meaningful improvements on Type 2 biomarkers in blood and skin",
+          "disrupt a biologics-dominated market",
+          "improvements on FeNO in AD and comorbid asthma patients",
+          "improvements on clinical endpoints in patients with AD, comorbid asthma and allergic rhinitis",
+          "oral, biologics-like profile",
+          "potential to broaden clinical access",
+          "results in line with or in some cases numerically exceeded published data for dupilumab at week 4",
+          "robustly degrade STAT6 in blood and skin at doses that are safe and well-tolerated",
+          "safely and deeply degraded STAT6",
+          "\u226595% mean STAT6 degradation at doses \u22655 mg"
+        ],
+        "safety": [
+          "Dosing for 28 days",
+          "Favorable safety profile",
+          "Favorable safety profile: well-tolerated in multiple preclinical species and safety studies at concentrations 40-fold above efficacious dose with up to 4 months of dosing",
+          "No SAEs",
+          "No Severe AEs",
+          "No TRAEs >1 subject",
+          "No adverse safety findings in any doses of 4-week GLP tox studies in NHP and rodents",
+          "No clinically relevant changes in vital signs, laboratory tests, and ECGs",
+          "No dose dependent pattern in the TEAEs",
+          "No related TEAEs leading to discontinuation",
+          "No treatment related AE reported in >1 participant",
+          "Safety & tolerability of escalating single and multiple doses of KT-621",
+          "Safety profile similar to Phase 1a healthy volunteer trial",
+          "Safety profile undifferentiated from placebo",
+          "Safety, PK, STAT6 degradation, Th2 biomarkers in blood and skin lesions, clinical activity (EASI, pruritus, IGA)",
+          "Well Tolerated Across All Doses Evaluated Undifferentiated from Placebo",
+          "Well tolerated",
+          "Well tolerated at 90%+ degradation",
+          "Well tolerated in multiple preclinical species and safety studies at concentrations 40-fold above efficacious dose",
+          "Well-tolerated",
+          "Well-tolerated across all dose levels",
+          "Well-tolerated and favorable safety profile similar to Phase 1a healthy volunteer study",
+          "Well-tolerated in multiple preclinical safety studies at >40x efficacious concentration",
+          "safely and deeply degraded STAT6"
+        ]
+      },
+      "2026": {
+        "targets": [
+          "CCL13/MCP-4",
+          "CCL17/TARC",
+          "CCL18/PARC",
+          "CCL26/Eotaxin-3",
+          "IL-13",
+          "IL-4",
+          "STAT6"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "oral"
+        ],
+        "claims": [
+          "100% responder rate in ACQ-5",
+          "56% median FeNO reduction at Day 29",
+          "Achieved Deep STAT6 Degradation in Blood and Skin",
+          "Achieved Rapid and Robust Reductions in EASI and SCORAD Across All Patients",
+          "Achieved mean changes of -0.8 points in RQLQ",
+          "Achieved mean changes of \u20130.9 points in TNSS",
+          "Achieved robust clinical improvement across EASI-50 (76% overall), EASI-75 (29% overall) and vIGA-AD (19% overall)",
+          "Blocked IL-4 and IL-13 signaling in human cells and in vivo systems equally or more potently than dupilumab",
+          "Blocks Type 2 inflammation in lungs (FeNO) and relieves asthma symptoms (ACQ-5)",
+          "Blocks Type 2 inflammation in skin and impacts AD lesions (EASI, vIGA-AD, and skin transcriptomic changes)",
+          "Compelling Clinical Profile",
+          "Compelling Preclinical Profile",
+          "Deep STAT6 degradation",
+          "Deep STAT6 degradation >94/95% in HV & patients with AD in skin",
+          "Deep STAT6 degradation >95% in HV & patients with AD in blood",
+          "Deep STAT6 degradation in blood and skin",
+          "Deep skin degradation of 94% in both dose groups with multiple patients\u2019 STAT6 levels below the LLOQ",
+          "Degradation Maintained for 28 Days Across Both Dose Cohorts",
+          "Dupilumab-like activity",
+          "Excellent Preclinical Activity Comparable or Superior to Dupilumab",
+          "Exquisite Selectivity",
+          "Favorable safety profile",
+          "Full Inhibition of IL-4/IL-13 Pathways, More Potent than Dupilumab",
+          "Meaningful improvements of clinical endpoints and patient-reported outcomes",
+          "Meaningful improvements on clinical endpoints and PROs",
+          "Median STAT6 degradation of 98% in blood in both dose groups maintained throughout the treatment period",
+          "Potential for Dupilumab-like Activity",
+          "Potential for Dupilumab-like Activity in a Pill",
+          "RQLQ responder rate was 33%",
+          "Reductions in Multiple Disease-Relevant Type 2 Biomarkers",
+          "Reductions seen as early as Day 8 without apparent plateau during treatment duration",
+          "Relieves allergic rhinitis symptoms (TNSS, RQLQ)",
+          "Robust Degradation in Relevant Cell Types",
+          "Robust STAT6 Degradation in Blood and Skin Following Low Daily Oral Doses",
+          "Robust activity in asthma and AD in mouse models",
+          "Robust and consistent reductions in itch (PPNRS, SCORAD Itch, IL-31)",
+          "Robust reductions in Type 2 biomarkers",
+          "TNSS responder rate was 57%",
+          "blocked IL-4/13 biomarkers equally or numerically better than dupilumab",
+          "demonstrated meaningful improvements on Type 2 biomarkers in blood and skin",
+          "has the potential to offer 'what patients want'",
+          "improvements on FeNO in AD and comorbid asthma patients",
+          "improvements on clinical endpoints in patients with AD, comorbid asthma and allergic rhinitis",
+          "results in line with or in some cases numerically exceeded published data for dupilumab at week 4",
+          "safely and deeply degraded STAT6",
+          "transforming the treatment of AD, asthma, and other Type 2 diseases"
+        ],
+        "safety": [
+          "4 months rat and NHP GLP tox",
+          "Embryofetal development tox in rat, rabbit and NHP",
+          "Favorable safety profile",
+          "Favorable safety profile: well-tolerated across all dose levels with safety profile undifferentiated from placebo",
+          "Favorable safety profile: well-tolerated in multiple preclinical species and safety studies at concentrations 40-fold above efficacious dose with up to 4 months of dosing",
+          "No AEs at any doses in: 4 weeks rat and NHP GLP tox",
+          "No AEs of conjunctivitis (or of any ocular disorder), herpes infections, or arthralgias",
+          "No SAEs or Severe AEs",
+          "No Serious Adverse Events",
+          "No Severe Adverse Events",
+          "No Treatment Related AE (TRAE) reported in >1 participant",
+          "No clinically relevant changes in vital signs, laboratory tests or ECGs",
+          "No clinically relevant changes in vital signs, laboratory tests, and ECGs",
+          "No dose dependent pattern in Treatment Emergent Adverse Events (TEAEs)",
+          "No dose-dependent pattern in the TEAEs",
+          "No related TEAEs leading to discontinuation",
+          "No related TEAEs or TEAEs leading to discontinuation",
+          "Well Tolerated Across All Doses Evaluated and Safety Profile Undifferentiated from Placebo",
+          "Well-tolerated and favorable safety profile",
+          "Well-tolerated with favorable safety at both 100 mg and 200 mg",
+          "no side effects or safety issues",
+          "safely"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 17
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 24
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 25
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 17
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 25
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 29
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 30
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 31
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 32
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 33
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 34
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 35
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 53
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 56
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 57
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 58
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 60
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 3
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 29
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 30
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 31
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 32
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 33
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 35
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 36
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 38
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 39
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 40
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 41
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 42
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 43
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 44
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 45
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 46
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 47
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 48
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 49
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 50
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 53
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 55
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 56
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 2
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 17
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 24
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 25
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 26
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 29
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 33
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 34
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 35
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 36
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 37
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-6",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "STAT6"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "Complete STAT6 Degradation Selectivity in Human PBMC Proteosome at 100 x DC90",
+          "Excellent Degradation Potency and Selectivity",
+          "Picomolar Potency and Consistent Degradation Across all Disease-Relevant Cell Types Evaluated"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 19
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-579",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "Autoantibodies",
+          "IFN\u03b2",
+          "IFR5",
+          "IL-12p40",
+          "IL-1\u03b2",
+          "IL-6",
+          "IRF5",
+          "TNF\u03b1",
+          "Type-I IFN",
+          "pro-inflammatory cytokines"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "Oral Degrader",
+          "oral degrader"
+        ],
+        "claims": [
+          "Degradation and selectivity",
+          "Degrades all Cytoplasmic and Nuclear IRF5 (but not IRF3/7)",
+          "Demonstrated Generally Better Outcomes than Approved or Clinically Active Drugs",
+          "Effectively Blocks Circulating Cytokines In Mouse Model",
+          "Excellent safety profile",
+          "Inhibition of pro-inflammatory cytokines",
+          "Inhibits IgG Levels After TLR9 Activation (CpG-B)",
+          "Inhibits IgG production in SLE derived B cells",
+          "KT-579 blocks Type I IFN dependent genes at least as effectively as an anti-TLR7/8 drug (Afimetoran)",
+          "KT-579 inhibits TLR7/8 induced ISGs that are associated with increased disease activity in SLE",
+          "Leads to Significant Dose-dependent Inhibition of TLR7-R848 and TLR9-CpG-B Cytokine Production in Mouse",
+          "No adverse effects at up to 200-fold predicted human efficacious exposure",
+          "Potently degrades IRF5",
+          "Prevented disease associated mortality better than all other approved or clinically active agents tested",
+          "Reduced proteinuria",
+          "Reduces Joint Swelling",
+          "Reduces TLR9 (CpG-B) induced plasmablast differentiation",
+          "Selectively depletes TLR7/8 induced IRF5 nuclear translocation, while sparing IRF7 and IRF3",
+          "Significant Reduction in Circulating Pro-inflammatory Cytokines",
+          "Type-I IFN inhibition",
+          "best-in-class profile",
+          "first-in-class",
+          "highly selective",
+          "potent",
+          "selective",
+          "well-tolerated"
+        ],
+        "safety": [
+          "Completed non-GLP toxicity studies in NHP and rodents with no adverse effects",
+          "favorable safety profile",
+          "no AEs in non-GLP tox studies",
+          "well-tolerated in safety studies up to 200-fold above the predicted human efficacious concentration"
+        ]
+      },
+      "2026": {
+        "targets": [
+          "IFR5",
+          "IRF5",
+          "TLR7",
+          "TLR8",
+          "TLR9"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "oral small molecule"
+        ],
+        "claims": [
+          "All KT-579 Treated Mice Survived Length of Study",
+          "Clear reduction in IgG/complement glomeruli staining indicating reduced kidney disease involvement in SLE MRL/lpr mouse model with IRF5 degrader as compared to standard of care",
+          "Completed non-GLP toxicity studies in NHP and rodents with no adverse effects at up to 200-fold predicted human efficacious exposure",
+          "Effectively Blocks TLR Induced Pro-inflammatory Cytokines",
+          "KT-579 administered once daily for 63 days was well tolerated and prevented mortality more effectively than all other approved or clinically active comparator agents tested",
+          "KT-579 led to sustained reduction of serum anti-dsDNA levels and reduction in splenic plasmablasts, differentiated B cells, and plasma cells, achieving effects comparable to, or better than, standard of care",
+          "Leads to Significant Reduction in Joint Swelling Comparable to Tofacitinib",
+          "Potently degrades IRF5 across multiple preclinical species with low oral doses",
+          "Reduces Joint Swelling",
+          "Reduces Total IgG levels in SLE PBMC Samples",
+          "Results in significant reduction of circulating pro-inflammatory cytokines",
+          "Results in significant reduction of pathogenic infiltrating T cells",
+          "Significantly Decreases IgG, Complement 3 (C3) and Renal Disease Progression",
+          "Sustained Reduction of Serum Anti-dsDNA",
+          "favorable safety profile",
+          "first-in-class",
+          "fully degrades IRF5",
+          "potent",
+          "selective"
+        ],
+        "safety": [
+          "Excellent safety profile",
+          "de-risk safety"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 26
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 34
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 35
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 36
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 37
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 38
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 39
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 40
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 41
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 42
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 43
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 44
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 45
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 47
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 48
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 49
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 37
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 42
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 43
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 44
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 45
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 46
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 48
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 49
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "IRF5 Degrader",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "IRF5"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "Decreased Proteinuria",
+          "Early, Sustained and Complete Reduction in Anti-dsDNA Abs",
+          "Superior Activity Reducing Anti-dsDNA at Week 37"
+        ],
+        "safety": []
+      },
+      "2026": {
+        "targets": [
+          "IRF5"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "Decreased Proteinuria",
+          "Early, Sustained and Complete Reduction in Anti-dsDNA Abs",
+          "Superior Activity Reducing Anti-dsDNA at Week 37"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 29
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 46
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 47
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-485",
+    "timeline": {
+      "2026": {
+        "targets": [
+          "IRAK4"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "degrader"
+        ],
+        "claims": [
+          "highly selective",
+          "oral",
+          "potent"
+        ],
+        "safety": [
+          "absence of any QTc signal"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 51
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 64
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "SAR444656",
+    "timeline": {
+      "2021": {
+        "targets": [
+          "IRAK4"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 46
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-413",
+    "timeline": {
+      "2021": {
+        "targets": [
+          "Aiolos",
+          "IRAK1",
+          "IRAK4",
+          "Ikaros"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "degrader"
+        ],
+        "claims": [
+          "Complete or partial regressions",
+          "Extended tumor exposure",
+          "First US Approval (Accelerated)",
+          "Highly Active on Intermittent Dosing Regimens",
+          "KT-413 administered on intermittent schedules leads to deep and durable regressions in combination with Rituxan",
+          "KT-413 administered on intermittent schedules leads to deep and durable regressions in combination with the BCL-2 inhibitor, Venetoclax",
+          "KT-413 administered on intermittent schedules leads to strong regressions in combination with the BTK inhibitor Ibrutinib",
+          "More active in MYD88MT DLBCL cells than CC-220 and KTX-545",
+          "Potent Degrader of IRAK4 and IMiD Substrates",
+          "Potential to be First Precision Medicine in DLBCL to Target a Genetically-defined Population",
+          "Profound antitumor effect in vitro and in vivo",
+          "Second US Approval (Full)",
+          "Strong degradation of both IRAK4 and IMiD substrates",
+          "Superior Anti-tumor activity"
+        ],
+        "safety": [
+          "MTD/RP2D",
+          "safety",
+          "tolerability"
+        ]
+      },
+      "2022": {
+        "targets": [
+          "Aiolos",
+          "IRAK4",
+          "Ikaros"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "40% KD of IRAK4 in blood",
+          "At least 72h target degradation observed",
+          "Complete Tumor Regressions",
+          "PD Effects of KT-413",
+          "PK Parameters of KT-413",
+          "Preliminary Clinical Activity (ORR, DoR, PFS, DCR, OS)",
+          "Preliminary Estimates of Activity",
+          "Safety/Tolerability and MTD and RP2D",
+          "Safety/Tolerability at RP2D in Patients with DLBCL",
+          "Strong antitumor activity",
+          "Superior activity compared to IMiD CC-220",
+          "Up to 95/100% KD of Ikaros/Aiolos"
+        ],
+        "safety": [
+          "First 2 dose levels generally well-tolerated",
+          "No DLTs",
+          "No neutropenia observed",
+          "No treatment-related SAEs"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 49
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 52
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 53
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 54
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 55
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 56
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 57
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 17
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 22
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "IRAKIMiD",
+    "timeline": {},
+    "evidence": [
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 51
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-333",
+    "timeline": {
+      "2021": {
+        "targets": [
+          "STAT3"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "heterobifunctional degrader"
+        ],
+        "claims": [
+          "Accelerated Approval",
+          "First-in-class Opportunity",
+          "Full Approval",
+          "Highly Selective Degradation of STAT3",
+          "Profound single agent activity",
+          "Promising combo activity with anti-PD1",
+          "Selective degradation of only STAT3 protein"
+        ],
+        "safety": [
+          "Safety",
+          "Tolerability"
+        ]
+      },
+      "2022": {
+        "targets": [
+          "STAT3"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "10 mg/kg sufficient to drive full tumor regression in SU-DHL-1 that was durable for multiple weeks after the last dose",
+          "At least 48h of target degradation observed",
+          "Complete Tumor Regressions Associated with Robust STAT3 KD for \u223c48h in Preclinical Models",
+          "Initial Proof-of-Mechanism demonstrated",
+          "No dose-limiting toxicities observed to date",
+          "PD Effects of KT-333",
+          "PK Parameters of KT-333",
+          "Preliminary Clinical Activity (ORR, DoR, PFS, DCR, OS)",
+          "Preliminary Estimates of Activity",
+          "STAT3 degradation consistent with preclinical predictions",
+          "Safety/Tolerability and MTD and RP2D",
+          "Safety/Tolerability at RP2D in Patients with Lymphoma/Leukemia and Solid Tumors",
+          "demonstrating PK/PD consistent with pre-clinical models"
+        ],
+        "safety": [
+          "DL1 level generally well-tolerated with no DLTs or treatment-related SAEs"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 58
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 61
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 64
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 65
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 66
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 6
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 14
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KTX-201",
+    "timeline": {
+      "2021": {
+        "targets": [
+          "STAT3"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "combination extends survival",
+          "complete responders reject tumor rechallenge demonstrating development of long-term immune memory",
+          "synergizes with anti-PD-1 leading to 60% complete responses"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 63
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-253",
+    "timeline": {
+      "2021": {
+        "targets": [
+          "MDM2",
+          "PUMA",
+          "p21",
+          "p53"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "degrader"
+        ],
+        "claims": [
+          "4 hr target coverage by KT-253 is sufficient to induce apoptosis",
+          ">200-fold more potent in tumor cell killing assays than SMI's due to its mechanism of action",
+          "Best-in-Class p53 Stabilizer",
+          "Blocks the feedback loop which up-regulates MDM2 production",
+          "Ensures high activity and improved therapeutic index vs SMI\u2019s",
+          "Induces apoptosis in cell lines and in vivo xenografts",
+          "Inhibits tumor cell growth with picomolar potency",
+          "Intermittent dosing schedule of KT-253 can drive efficacy while increasing therapeutic index",
+          "MDM2 Degradation (KT-253, 1 mg/kg) Leads to Fast Increase in p53, p21, and PUMA (Key Apoptotic Biomarker)",
+          "More than 200-fold more potent than clinically active MDM2 small molecule inhibitors",
+          "Potent MDM2 Degrader",
+          "Potent MDM2 degrader",
+          "Selective degradation of KT-253",
+          "Single Dose of KT-253 Achieves Sustained Tumor Regression",
+          "Single Dose of KT-253 Leads to Sustained Tumor Regression",
+          "Strongly stabilizes p53",
+          "Superior to MDM2/p53 Small Molecule Inhibitors",
+          "Superior tumor cell killing (pM range)"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 75
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 78
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 79
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 80
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 81
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 84
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "IRAKIMiD (KT-413)",
+    "timeline": {},
+    "evidence": [
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 15
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "PF-06550833",
+    "timeline": {
+      "2022": {
+        "targets": [
+          "IRAK4"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 25
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "Cemsidomide",
+    "timeline": {
+      "2024": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "25% CR rates",
+          "44% ORR",
+          "best-in-class IKZF1/3 degrader",
+          "compelling anti-lymphoma activity",
+          "demonstrated monotherapy anti-myeloma and immunomodulatory effects",
+          "differentiated PK profile",
+          "differentiated safety profile",
+          "immunomodulatory effects",
+          "potent anti-myeloma activity",
+          "potentially best-in-class profile",
+          "rapid and potent degradation of IKZF1/3",
+          "well tolerated",
+          "wide therapeutic index"
+        ],
+        "safety": [
+          "2 DLTs at 100 \u00b5g (grade 4 thrombocytopenia)",
+          "low rates of infections and febrile neutropenia",
+          "manageable grade 3/4 neutropenia cases",
+          "well-tolerated with manageable neutropenia",
+          "wide therapeutic index"
+        ]
+      },
+      "2026": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "Accelerated Approval",
+          "Full Approval"
+        ],
+        "safety": [
+          "Characterize safety and tolerability"
+        ]
+      },
+      "2025": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "34% ORR across all dose levels",
+          "50% ORR at highest dose",
+          "Achieves >50% degradation of IKZF1",
+          "Achieves >80% degradation of IKZF3",
+          "Class-leading anti-myeloma activity with 50% ORR",
+          "Differentiated safety & tolerability profile",
+          "Dose proportional exposure",
+          "MRD negativity achieved in 1 patient with a CR at the highest dose level of cemsidomide (100\u00b5g)",
+          "Median DOR of 9.3 months",
+          "ORR (\u2265 PR) of 34% (23/67) was achieved across all dose levels with a clinical benefit rate (\u2265 MR) of 49%",
+          "ORR at the highest dose level of cemsidomide 100\u00b5g was 50% with a clinical benefit rate of 64%",
+          "Potential for accelerated approval",
+          "Potential to be best-in-class",
+          "durable anti-myeloma activity",
+          "well tolerated"
+        ],
+        "safety": [
+          "1 DLT at 62.5 \u00b5g QD due to Grade 4 neutropenia lasting >7 days",
+          "3 DLTs at 100 \u00b5g QD",
+          "5 DLT events at 100 \u00b5g QD (G4 neutropenia, G3 pneumonia in 2 patients, G3 ALT increase, G3 febrile neutropenia)",
+          "Differentiated safety & tolerability profile",
+          "manageable TEAEs",
+          "minimal treatment discontinuations or reductions"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "CEMSI_ASH Investor Presentation_FINAL_FINAL_12.9.24__v4.pdf",
+        "slide": 9
+      },
+      {
+        "document": "CEMSI_ASH Investor Presentation_FINAL_FINAL_12.9.24__v4.pdf",
+        "slide": 11
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 8
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 16
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 6
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 9
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 13
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 15
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Dhakal_IMS 2025_Cemsi_Oral_Final 09152025 (002) (1).pdf",
+        "slide": 12
+      },
+      {
+        "document": "Dhakal_IMS 2025_Cemsi_Oral_Final 09152025 (002) (1).pdf",
+        "slide": 14
+      },
+      {
+        "document": "Dhakal_IMS 2025_Cemsi_Oral_Final 09152025 (002) (1).pdf",
+        "slide": 16
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 6
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 19
+      },
+      {
+        "document": "CFT7455-ASH 2024 NHL Oral_FINAL.pdf",
+        "slide": 8
+      },
+      {
+        "document": "CFT7455-ASH 2024 NHL Oral_FINAL.pdf",
+        "slide": 21
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "cemsidomide",
+    "timeline": {
+      "2030": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "compelling anti-tumor activity across a range of dose levels",
+          "potential backbone therapy",
+          "potentially be a best-in-class therapy",
+          "well-tolerated with a compelling safety profile"
+        ],
+        "safety": [
+          "compelling safety profile",
+          "well-tolerated"
+        ]
+      },
+      "2026": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "degrader"
+        ],
+        "claims": [
+          "36% ORR across all doses evaluated",
+          "40% ORR at the second highest dose level (75 \u00b5g)",
+          "53% ORR at the highest dose level (100 \u00b5g)",
+          "Cemsidomide has potential for multibillion dollar opportunities across multiple lines of therapy",
+          "Cemsidomide has the potential to capture a valuable portion of the large global multiple myeloma market",
+          "Combination is safe",
+          "Compelling anti-myeloma activity",
+          "Differentiated safety profile",
+          "Early evidence of anti-myeloma activity",
+          "Estimated peak revenue for initial cemsidomide opportunity is $2.5-$4B",
+          "Minimal disruptive adverse events",
+          "No discontinuations related to cemsidomide",
+          "Potential Best-in-Class Next-generation IKZF1/3 Degrader",
+          "Potential best-in-class profile",
+          "T-cell activation observed across all cemsidomide dose levels",
+          "best-in-class profile",
+          "de-risked development plan with two distinct opportunities for accelerated approval",
+          "differentiated safety & tolerability profile with class-leading anti-myeloma activity",
+          "potential best-in-class profile",
+          "potential path to AA"
+        ],
+        "safety": [
+          "Differentiated safety & tolerability profile",
+          "Differentiated safety profile",
+          "Grade 3/4 neutropenia: 59%",
+          "No dose discontinuations related to cemsidomide",
+          "Only 6% dose reductions due to TEAEs"
+        ]
+      },
+      "2025": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "degrader"
+        ],
+        "claims": [
+          "Very good partial response",
+          "class-leading efficacy",
+          "differentiated safety & tolerability profile"
+        ],
+        "safety": [
+          "Characterize the safety and tolerability of cemsidomide in combination with elranatamab"
+        ]
+      },
+      "2024": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "CEMSI_ASH Investor Presentation_FINAL_FINAL_12.9.24__v4.pdf",
+        "slide": 34
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 4
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 12
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 13
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 15
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 19
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 31
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 3
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 28
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 29
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 38
+      },
+      {
+        "document": "CFT7455-ASH 2024 NHL Oral_FINAL.pdf",
+        "slide": 9
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "CFT1946",
+    "timeline": {
+      "2023": {
+        "targets": [
+          "BRAF V600",
+          "BRAF-V600E",
+          "BRAF-V600X",
+          "Mutant BRAF",
+          "NRAS-Q61K"
+        ],
+        "e3_ligases": [
+          "CRBN",
+          "cereblon"
+        ],
+        "modalities": [
+          "BiDAC",
+          "BiDACTM degrader",
+          "BiDAC\u2122 degrader",
+          "Degrader"
+        ],
+        "claims": [
+          "Active in BRAF-V600E/NRAS-Q61K, a model of clinical resistance to BRAF inhibitors",
+          "Address failures in inhibitor-based therapy due to resistance mechanisms",
+          "Avoid paradoxical activation of RAF dimers",
+          "CFT1946 Degrades BRAF-V600E in a Dose Dependent Manner",
+          "CFT1946 as a single agent and in combination with MEKi is effective in MAPK pathway inhibition, superior to BRAFi",
+          "Causes BRAF-V600E Degradation",
+          "Combination treatment of BRAFi resistant xenograft model with CFT1946 and MEKi shows tumor growth inhibition/regression",
+          "Effect deep elimination of mutant BRAF signaling and create durable responses",
+          "HiBiT assay shows BRAF-V600E degradation with CFT1946 treatment in dose-dependent manner",
+          "Loss of Viability in BRAF-V600E Cells",
+          "Potent Inhibition of MAPK Signaling",
+          "Prevent mutant BRAF-V600X incorporation into RAF dimers",
+          "Specifically target mutant BRAF-V600X over wildtype BRAF",
+          "pERK loss aligns with loss of BRAF-V600E protein demonstrating MAPK pathway inhibition",
+          "potent and mutant-selective",
+          "superior to inhibitors in in vitro and in vivo models"
+        ],
+        "safety": []
+      },
+      "2022": {
+        "targets": [
+          "BRAF-V600E",
+          "BRAF-V600X",
+          "Mutant BRAF",
+          "NRAS-Q61K",
+          "mBRAF"
+        ],
+        "e3_ligases": [
+          "CRBN"
+        ],
+        "modalities": [
+          "BiDAC",
+          "BiDACTM degrader",
+          "Selective Degrader",
+          "targeted protein degradation"
+        ],
+        "claims": [
+          "CFT1946 degrades BRAF-V600E in a dose dependent manner",
+          "CFT1946 provides proof of concept for degradation of selected non-V600E mBRAF of both Class II and Class III",
+          "CFT1946 treatment demonstrates degradation of HA-tagged mBRAF in a dose-dependent manner",
+          "CFT1946 treatment of Class III mBRAF model cell line shows proof of concept for TPD-mediated growth inhibition superior to BRAFi",
+          "CFT1946 treatment of H1666 cells shows modest growth inhibition, superior to inhibition alone",
+          "Causes BRAF-V600E Degradation",
+          "HiBiT assay shows BRAF-V600E degradation with CFT1946 treatment in dose-dependent manner",
+          "Loss of Viability in BRAF-V600E Cells",
+          "Potent Inhibition of MAPK Signaling",
+          "pERK loss aligns with loss of BRAF-V600E protein demonstrating MAPK pathway inhibition"
+        ],
+        "safety": []
+      },
+      "2024": {
+        "targets": [
+          "APC",
+          "BRAF",
+          "BRAF V600",
+          "BRAF V600 Mutants",
+          "BRAF V600E",
+          "BRAF V600X",
+          "BRAF-V600E",
+          "MEK1",
+          "MEK2",
+          "NRAS",
+          "RNF43",
+          "TERT",
+          "TP53"
+        ],
+        "e3_ligases": [
+          "cereblon"
+        ],
+        "modalities": [
+          "BiDAC degrader",
+          "degrader",
+          "targeted protein degradation"
+        ],
+        "claims": [
+          "8/11 melanoma patients demonstrated tumor reduction",
+          "Addresses MAPK pathway alterations resulting from BRAF inhibitor resistance",
+          "Anti-tumor activity seen across multiple BRAF V600 mutants",
+          "Assess PK and PD",
+          "Avoids paradoxical activation seen with approved inhibitors",
+          "CFT1946 degrades BRAF V600E protein in all post-treatment biopsies to date",
+          "Confirmed Partial Response",
+          "Confirmed Partial Response in BRAF V600E Pancreatic Cancer",
+          "Decrease in BRAF V600E allele fraction measured in ctDNA using WES",
+          "Degradation of mutant BRAF protein overcomes resistance mechanisms",
+          "Degraded BRAF V600E protein in all available post-treatment biopsies",
+          "Determine RP2D/MTD",
+          "Dose-dependent bioavailability",
+          "Early Evidence of Anti-Tumor Activity",
+          "Early evidence of monotherapy anti-tumor activity",
+          "Early evidence of monotherapy anti-tumor activity in patients who progressed after treatment with BRAF inhibitors",
+          "Enables deep elimination of mutant BRAF signaling to create potential durable responses through degrader molecule recycling and catalytic effect",
+          "Estimate anti-tumor activity",
+          "Increased drug exposure observed with dose escalation",
+          "Intrinsic resistance in CRC patients supports CFT1946 in combination with cetuximab",
+          "Monotherapy anti-tumor activity in patients refractory to BRAF inhibitors",
+          "No Grade \u2265 3 cutaneous adverse events commonly seen with wild-type BRAF inhibition",
+          "No drug interruptions, reductions, or discontinuations due to treatment-related adverse events",
+          "Potential to disrupt the treatment landscape and become an important option for patients",
+          "Potentially deeper and more durable responses than BRAF inhibitors",
+          "Prevents BRAF V600 mutant mono/heterodimer formation",
+          "Proof of Degrader Concept",
+          "Proof of Mechanism",
+          "Safety and tolerability",
+          "Spares wild-type BRAF, likely avoiding AEs associated with inhibition of wild-type BRAF",
+          "Specifically targets BRAF V600 mutations, which includes BRAF V600 mutations beyond BRAF V600E",
+          "Tumor reduction in 16/27 patients",
+          "Tumor reductions observed in patients with various V600 mutation types",
+          "Well tolerated and highly selective degrader",
+          "Well tolerated safety profile in an advanced and metastatic patient population",
+          "abrogates resistance and paradoxical activation associated with RAF dimerization",
+          "demonstrates efficacy in multiple models of BRAF V600X-driven cancers",
+          "superior activity to clinically approved BRAF inhibitors"
+        ],
+        "safety": [
+          "Likely avoiding AEs associated with inhibition of wild-type BRAF",
+          "No Grade \u2265 3 cutaneous adverse events",
+          "likely avoiding AEs associated with inhibition of wild-type BRAF"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "C4_356a_ASCO_2023_Trial_in_progress_poster.pdf",
+        "slide": 1
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 1
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 5
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 6
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 7
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 8
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 9
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 11
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 1
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 3
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 5
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 6
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 7
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 8
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 9
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 14
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 16
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 18
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 19
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 20
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 21
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 1
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 3
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 8
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 10
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 11
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 18
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 20
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 21
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 23
+      },
+      {
+        "document": "CFT1946 ESMO Oral Presentation_FINAL 9.13.24.pdf",
+        "slide": 1
+      },
+      {
+        "document": "CFT1946 ESMO Oral Presentation_FINAL 9.13.24.pdf",
+        "slide": 10
+      },
+      {
+        "document": "CFT1946 ESMO Oral Presentation_FINAL 9.13.24.pdf",
+        "slide": 13
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 1
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 4
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 9
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 10
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 11
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 12
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 13
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 14
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 15
+      },
+      {
+        "document": "C4_2024_AACR_CFT1946 _FINAL.pdf",
+        "slide": 1
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "CFT7455",
+    "timeline": {
+      "2022": {
+        "targets": [
+          "CRBN",
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [
+          "CRBN",
+          "cereblon"
+        ],
+        "modalities": [
+          "MonoDAC Degrader",
+          "Small Molecule"
+        ],
+        "claims": [
+          "48 hr Degradation Kinetics",
+          "Broad, potent antiproliferative activity in a panel of MM cell lines",
+          "CFT7455 is efficacious in MM models resistant or insensitive to IMiDs",
+          "CFT7455 promotes regression in tumors insensitive to Pom",
+          "CFT7455 retains activity in Len- & Pom-Resistant MM cells",
+          "Catalytic activity enhancement resulted in >1000-fold improvement in potency vs. Pom",
+          "Class-leading catalytic activity",
+          "Deep IKZF3 degradation",
+          "Deep IKZF3 degradation and regression in MM xenograft models",
+          "Demonstrates high potency in MM cell lines and xenografts",
+          "Durable Tumor PK",
+          "Durable antitumor responses consistent with long-lived pharmacodynamic activity",
+          "Has broad antiproliferative activity",
+          "High CRBN binding affinity (KD = 0.9 nM)",
+          "High binding affinity",
+          "Highly Efficacious",
+          "Highly Potent and Selective",
+          "Linear, Durable Tumor PK",
+          "Pharmacologic profile that enables sustained IKZF1/3 degradation",
+          "Promotes durable tumor regression",
+          "Rapid, selective, and deep degradation of IKZF1/3 that is associated with apoptosis",
+          "Regression in MM xenograft models",
+          "Regression in the treatment-na\u00efve H929 MM tumor models at doses \u226510 \u00b5g/kg/day",
+          "Selective to reduce off-target liabilities",
+          "Single-agent efficacy in models unresponsive to approved IMiDs",
+          "fast, selective degradation of IKZF1/3",
+          "potent CRBN binder"
+        ],
+        "safety": [
+          "CC-92480 is not detectable after 4 hours",
+          "Mouse missing in CFT7455 100 \u00b5g/kg group due to changes unrelated to treatment or disease"
+        ]
+      },
+      "2023": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [
+          "CRBN"
+        ],
+        "modalities": [
+          "small molecule"
+        ],
+        "claims": [
+          "activity in CNS models of lymphoma",
+          "demonstrates potent anti-tumor activity",
+          "greater efficacy compared to pomalidomide",
+          "manageable neutropenia",
+          "promising efficacy signals",
+          "sCR achieved in a pre-treated MM patient",
+          "synergistic activity with rituximab, ibrutinib, and romidepsin",
+          "well tolerated"
+        ],
+        "safety": [
+          "manageable neutropenia",
+          "well tolerated"
+        ]
+      },
+      "2024": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [
+          "cereblon"
+        ],
+        "modalities": [
+          "MonoDAC\u00ae Degrader"
+        ],
+        "claims": [
+          "Cemsidomide + Dex demonstrated compelling anti-myeloma activity across a broad range of doses",
+          "Cemsidomide is a novel, potent, cereblon-based IKZF1/3 MonoDAC\u00ae degrader",
+          "Class-leading catalytic activity to enable rapid and deep target degradation",
+          "High binding affinity to overcome low cereblon levels that drive resistance to lenalidomide and pomalidomide",
+          "Improved pharmacologic profile to promote tumor residence time and sustained IKZF1/3 degradation"
+        ],
+        "safety": [
+          "2 DLTs occurred at 100 \u00b5g due to grade 4 thrombocytopenia",
+          "38% of patients experienced Grade 3/4 neutropenia, which was manageable",
+          "No cases resulted in discontinuation or dose reductions",
+          "Only 1 DLT occurred as of the data cutoff date"
+        ]
+      },
+      "2021": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [
+          "CRBN"
+        ],
+        "modalities": [],
+        "claims": [
+          "Broad, potent antiproliferative activity in a panel of MM cell lines",
+          "Durable antitumor responses consistent with long-lived pharmacodynamic activity",
+          "Efficacy in models unresponsive to approved IMiDs",
+          "Expected efficacy and survival outcomes when combined with dexamethasone",
+          "High CRBN binding affinity (Kd = 0.9 nM)",
+          "Rapid, deep degradation of IKZF1/3 that is associated with apoptosis",
+          "Regression in multiple treatment-na\u00efve MM tumor models at doses \u226510 \u00b5g/kg/day"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 1
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 3
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 11
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 12
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 13
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 14
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 15
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 16
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 17
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 20
+      },
+      {
+        "document": "2023_ICML_Poster_CFT-7455_NHL-FINAL_approved (002).pdf",
+        "slide": 1
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 17
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 18
+      },
+      {
+        "document": "CFT7455_Phase_1_2_Cohort_A_Data_Investor_Call.pdf",
+        "slide": 1
+      },
+      {
+        "document": "CFT7455_Phase_1_2_Cohort_A_Data_Investor_Call.pdf",
+        "slide": 10
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 1
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 33
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 34
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 36
+      },
+      {
+        "document": "FINAL_CEMSIDOMIDE_POSTER_MM_11.13.24.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 6
+      },
+      {
+        "document": "C4_AACR_Slides_030421_Final_for_posting.pdf",
+        "slide": 13
+      },
+      {
+        "document": "CFT7455-ASH 2024 NHL Oral_FINAL.pdf",
+        "slide": 1
+      },
+      {
+        "document": "CFT7455-ASH 2024 NHL Oral_FINAL.pdf",
+        "slide": 3
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "monoDAC",
+    "timeline": {
+      "2022": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [
+          "CRBN"
+        ],
+        "modalities": [],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 5
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "CFT8919",
+    "timeline": {
+      "2026": {
+        "targets": [
+          "EGFR",
+          "EGFR C797S",
+          "EGFR Exon 21 Mutants",
+          "EGFR L858R",
+          "EGFR-L861Q"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "Allosteric Degrader"
+        ],
+        "claims": [
+          "Does not hit wild-type, potentially resulting in better tolerability",
+          "Potent and selective against L858R regardless of secondary mutations"
+        ],
+        "safety": [
+          "Toxicities associated with inhibition of wild-type EGFR limit tolerability"
+        ]
+      },
+      "2022": {
+        "targets": [
+          "EGFR L858R"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "Oral, Allosteric, Mutant-selective Degrader"
+        ],
+        "claims": [
+          "Active in vitro and in vivo in models with secondary mutations",
+          "Demonstrates intracranial activity",
+          "May combine with approved EGFR inhibitors",
+          "Potential for single agent activity in the front-line setting",
+          "Potential to prevent or treat brain metastases"
+        ],
+        "safety": []
+      },
+      "2021": {
+        "targets": [
+          "CCND1",
+          "EGFR",
+          "EGFR L858R"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "oral"
+        ],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 20
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 21
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 23
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 24
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 25
+      },
+      {
+        "document": "CFT8919_Pre_Clinical_Data.pdf",
+        "slide": 17
+      },
+      {
+        "document": "C4_CFT8919_TPD_Summit_Presentation.pdf",
+        "slide": 1
+      },
+      {
+        "document": "C4_CFT8919_TPD_Summit_Presentation.pdf",
+        "slide": 10
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "CFT8634",
+    "timeline": {
+      "2022": {
+        "targets": [
+          "BRD9",
+          "{\"dc50\": \"130 nM\", \"emax\": \"30%\", \"name\": \"BRD4\"}",
+          "{\"dc50\": \"3 nM\", \"emax\": \"4%\", \"name\": \"BRD9\"}",
+          "{\"dc50\": \"5 nM\", \"emax\": \"5%\", \"name\": \"BRD9\"}",
+          "{\"dc50\": \">10 \\u00b5M\", \"emax\": \"75%\", \"name\": \"BRD4\"}"
+        ],
+        "e3_ligases": [
+          "cereblon"
+        ],
+        "modalities": [
+          "BiDAC\u2122 degrader",
+          "bifunctional degradation activating compound"
+        ],
+        "claims": [
+          "orally bioavailable",
+          "potent",
+          "selective"
+        ],
+        "safety": [
+          "Frequency and severity of AEs and SAEs of CFT8634"
+        ]
+      },
+      "2023": {
+        "targets": [
+          "BRD9"
+        ],
+        "e3_ligases": [
+          "cereblon"
+        ],
+        "modalities": [
+          "bifunctional degradation activating compound"
+        ],
+        "claims": [
+          "CFT8634 demonstrated a manageable safety profile",
+          "CFT8634 has shown preliminary evidence of anti-tumor activity",
+          "CFT8634 is an orally bioavailable selective bifunctional degrader of BRD9"
+        ],
+        "safety": [
+          "Majority of AEs reported were considered mild to moderate in severity",
+          "No clear dose dependent relationship to incidence/severity of TEAEs was observed"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 1
+      },
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 11
+      },
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 14
+      },
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 15
+      },
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 17
+      },
+      {
+        "document": "C4_2206598_CTOS 2022_Final.pdf",
+        "slide": 1
+      },
+      {
+        "document": "CFT8634-CTOS 2023 Poster_Final_11.1.23[3].pdf",
+        "slide": 1
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "CFT-8634",
+    "timeline": {
+      "2022": {
+        "targets": [
+          "BRD9"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 12
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "Cemsidomide (CFT7455)",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [
+          "cereblon"
+        ],
+        "modalities": [
+          "MonoDAC\u00ae Degrader",
+          "MonoDAC\u00ae degrader"
+        ],
+        "claims": [
+          "catalytic activity enabling rapid and deep target degradation",
+          "high binding affinity to overcome resistance due to low cereblon levels",
+          "pharmacologic profile to promote tumor residence time and sustained IKZF1/3 degradation"
+        ],
+        "safety": [
+          "on-target neutropenia"
+        ]
+      },
+      "2024": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [
+          "cereblon"
+        ],
+        "modalities": [
+          "MonoDAC\u00ae degrader"
+        ],
+        "claims": [
+          "Catalytic activity enabling rapid and deep target degradation",
+          "High binding affinity to overcome resistance due to low cereblon levels",
+          "Pharmacologic profile to promote tumor residence time and sustained IKZF1/3 degradation"
+        ],
+        "safety": [
+          "On-target neutropenia"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "Dhakal_IMS 2025_Cemsi_Oral_Final 09152025 (002) (1).pdf",
+        "slide": 1
+      },
+      {
+        "document": "Dhakal_IMS 2025_Cemsi_Oral_Final 09152025 (002) (1).pdf",
+        "slide": 3
+      },
+      {
+        "document": "CFT7455-ASH 2024 NHL Oral_FINAL.pdf",
+        "slide": 2
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "Cemsidomide 14/14 + Dex",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "IKZF1",
+          "IKZF3"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Dhakal_IMS 2025_Cemsi_Oral_Final 09152025 (002) (1).pdf",
+        "slide": 10
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-471",
+    "timeline": {
+      "2022": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "ARV-471 has been well tolerated",
+          "Clinical Benefit Rate: 38% (All patients), 51% (Patients with ESR1 mutant tumors)",
+          "Continued efficacy and favorable tolerability",
+          "Excellent tolerability and signals of efficacy in the most heavily pretreated patients of any ER-targeting therapy",
+          "Favorable tolerability at both 200 mg qd and 500 mg qd",
+          "Favorable tolerability profile at 200 and 500 mg qd",
+          "In 35 patients treated at 200mg (RP3D), no dose reductions and only 1 discontinuation",
+          "Mean ER degradation was 71%",
+          "Median ER degradation was 69%",
+          "No signal for bradycardia or visual disturbance",
+          "No single TRAE in more than ~20% of patients",
+          "Potential best-in-class estrogen receptor-targeting therapy",
+          "Progression-Free Survival: 3.7 Months (All patients), 5.7 Months (Patients with ESR1 mutant tumors)",
+          "Strong CBR and mPFS in heavily treatment-resistant patients",
+          "best-in-class ER-targeting therapy",
+          "demonstrated strong signals of efficacy in the VERITAC Phase 2 trial",
+          "validated PROTAC protein degrader"
+        ],
+        "safety": [
+          "ALT increased (n=1)",
+          "Back pain/spinal cord compression (n=1)",
+          "ECG T-wave abnormality (n=1)",
+          "Fatigue (n=1)",
+          "Grade 3/4 TRAE reported in 6% (2/35) patients at 200 mg",
+          "In 35 patients treated at the recommended Phase 3 dose (200 mg), no dose reduction and 1 discontinuation",
+          "Neutropenia (n=1)",
+          "No dose reductions and one discontinuation at 200 mg phase 3 dose",
+          "QT prolongation (n=1)",
+          "favorable safety profile",
+          "favorable tolerability profile"
+        ]
+      },
+      "2020": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "80% of breast cancers are estrogen receptor (ER) positive",
+          "Achieved significant tumor shrinkage in combination with palbociclib (131% TGI) in an MCF-7 xenograft mouse model",
+          "Compelling efficacy signal in heavily pretreated patients",
+          "Fulvestrant has demonstrated the value of ER degradation in breast cancer",
+          "In all 10 mice in experiment, tumors reduced by >80%",
+          "In corresponding quantitative western blots, ER is reduced by 79% and 88% in the 10 mpk and 30 mpk arms, respectively, vs. 63% for fulvestrant",
+          "Oral, daily dose of ARV-471 inhibited tumor growth by 99% at 10 mpk and 106% at 30 mpk in an ESR1 mutant PDX model",
+          "Superior ER degradation compared to SERDs",
+          "Superior inhibitor of tumor growth compared to fulvestrant",
+          "Superior tumor growth inhibition versus fulvestrant in a Y537S (ER gene mutation) PDX model",
+          "Superior tumor shrinkage (in combination with palbociclib) compared to fulvestrant (108% TGI)",
+          "Well tolerated, with manageable adverse events",
+          "dose-proportional pharmacokinetics",
+          "early evidence of ER degradation",
+          "fast-to-market strategy",
+          "no DLTs; dose escalation continues",
+          "potential first- and best-in-class ER degrader",
+          "superior ER degradation and tumor inhibition in preclinical studies"
+        ],
+        "safety": [
+          "Maximum Tolerated Dose/Recommended Phase 2 Dose/Safety",
+          "No treatment-related AEs or DLTs were observed in the first cohort of ARV-471",
+          "Well tolerated, with manageable adverse events",
+          "no DLTs"
+        ]
+      },
+      "2025": {
+        "targets": [
+          "estrogen receptor"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [],
+        "safety": [
+          "Its safety and effectiveness have not been established."
+        ]
+      },
+      "2021": {
+        "targets": [
+          "ER",
+          "Target 1",
+          "Target 2"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC",
+          "oral, high-potency ER degrader"
+        ],
+        "claims": [
+          "68% Reduction in ER after treatment with 60 mg ARV-471",
+          "89% of TRAEs were grade 1/2 in severity with no DLTs",
+          "Begin early breast cancer study (neoadjuvant setting)",
+          "Confirmed RECIST Partial Response in a patient with extensive prior therapy and an ESR1 mutation at 120 mg",
+          "First-in-class ER-degrading PROTAC",
+          "Initiate Phase 1b combination study with everolimus",
+          "Share completed Phase 1 data",
+          "average degradation of 62%",
+          "clinical benefit rate (CBR) of 40%",
+          "confirmed partial responses",
+          "degraded ER up to 90% through the 120 mg dose level",
+          "early clinical benefit",
+          "maximum ER degradation of 89%",
+          "oral, best-in-class ER-directed therapy",
+          "potential to degrade ER better than fulvestrant",
+          "robust signals of efficacy"
+        ],
+        "safety": [
+          "favorable safety profile"
+        ]
+      },
+      "2024": {
+        "targets": [
+          "LRRK2"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          ">85% LRRK2 degradation in deep brain regions of cynomolgus monkeys after oral dosing"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 7
+      },
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 9
+      },
+      {
+        "document": "ARV-471 Collaboration Presentation_vF.pdf",
+        "slide": 1
+      },
+      {
+        "document": "ARV-471 Collaboration Presentation_vF.pdf",
+        "slide": 10
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 59
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 9
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 10
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 11
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 12
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 13
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 20
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 13
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 13
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 14
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 15
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 16
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 17
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 33
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 1
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 13
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 14
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 1
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 2
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 4
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 5
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 6
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 7
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 8
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 13
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 14
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 16
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 17
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 19
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 4
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 11
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "bavdegalutamide",
+    "timeline": {
+      "2022": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "0% Grade \u22654 TRAEs",
+          "2 of 7 RECIST-evaluable patients with durable partial responses",
+          "43% of patients remained on treatment for 24 weeks or more",
+          "46% PSA50 rate",
+          "46% PSA50 response rate in patients with AR T878X/H875Y-positive tumors",
+          "6 of 7 patients with tumor reductions",
+          "Low rates of discontinuation and dose reduction",
+          "potential path to accelerated approval",
+          "unmet need expected to increase as NHAs move earlier"
+        ],
+        "safety": [
+          "Manageable tolerability profile",
+          "manageable tolerability"
+        ]
+      },
+      "2020": {
+        "targets": [
+          "androgen receptor"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "degrades wild-type AR and clinically relevant mutants",
+          "first-in-class",
+          "promising efficacy profile"
+        ],
+        "safety": [
+          "76% of patients received prior chemotherapy",
+          "82% received both abiraterone and enzalutamide",
+          "84% had non-AR gene mutations",
+          "heavily pretreated patient population"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 12
+      },
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 13
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 5
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 21
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 22
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "BCL-057",
+    "timeline": {
+      "2023": {
+        "targets": [
+          "BCL6"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "Complete tumor stasis at low, oral daily doses",
+          "Tumor stasis correlates with 95-100% degradation of measurable BCL6",
+          "inhibits tumor growth by nearly 100%"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 16
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "vepdegestrant",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "ESR1"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "2.9-month improvement over fulvestrant",
+          "5-month median PFS",
+          "BEST-IN-CLASS TREATMENT without tradeoffs between efficacy, tolerability, and patient reported outcomes",
+          "best-in-class treatment",
+          "clinically meaningful median PFS benefit over fulvestrant",
+          "first-in-class oral PROTAC estrogen receptor degrader",
+          "potential best-in-class profile"
+        ],
+        "safety": [
+          "Favorable safety/tolerability profile",
+          "Low rate of discontinuation (2.9%)",
+          "Low rates and severity of GI-related events",
+          "safety and tolerability provide further evidence",
+          "{\"Any Grade\": 11, \"Grade 3/4\": 0, \"TEAE\": \"Arthralgia\"}",
+          "{\"Any Grade\": 11, \"Grade 3/4\": 0, \"TEAE\": \"Back pain\"}",
+          "{\"Any Grade\": 11, \"Grade 3/4\": 0, \"TEAE\": \"Decreased appetite\"}",
+          "{\"Any Grade\": 11, \"Grade 3/4\": 1, \"TEAE\": \"Neutropenia\"}",
+          "{\"Any Grade\": 12, \"Grade 3/4\": 0, \"TEAE\": \"Nausea\"}",
+          "{\"Any Grade\": 12, \"Grade 3/4\": 1, \"TEAE\": \"Anemia\"}",
+          "{\"Any Grade\": 13, \"Grade 3/4\": 1, \"TEAE\": \"AST increased\"}",
+          "{\"Any Grade\": 14, \"Grade 3/4\": 1, \"TEAE\": \"ALT increased\"}",
+          "{\"Any Grade\": 27, \"Grade 3/4\": 14, \"TEAE\": \"Fatigue\"}"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 6
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 15
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 10
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 62
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 63
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 70
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 71
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "Vepdegestrant",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "ESR1"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "2.5x improvement in mPFS over SoC",
+          "best-in-class treatment without tradeoffs between efficacy, tolerability, and patient reported outcomes",
+          "clinically meaningful median PFS benefit over fulvestrant",
+          "demonstrate clinical benefit",
+          "favorable safety/tolerability",
+          "improvement in mPFS (5.0m vs. 2.1m) vs. fulvestrant",
+          "low rates and severity of GI-related events",
+          "met the primary endpoint with a ~3-month improvement in mPFS in patients with tumors harboring ESR1 mutations",
+          "potential best-in-class profile",
+          "significantly reduced risk of clinically meaningful definitive deterioration in measures of overall health status compared to fulvestrant",
+          "statistically significant improvements in CBR and ORR in the ESR1 mutant population"
+        ],
+        "safety": [
+          "favorable safety/tolerability",
+          "low rates and severity of GI-related events",
+          "safety and tolerability provide further evidence",
+          "{\"Fulvestrant\": 0, \"TEAE\": \"Leading to dose reduction\", \"Vepdegestrant\": 2}",
+          "{\"Fulvestrant\": 1, \"TEAE\": \"Arthralgia\", \"Vepdegestrant\": 1}",
+          "{\"Fulvestrant\": 1, \"TEAE\": \"Leading to treatment discontinuation\", \"Vepdegestrant\": 3}",
+          "{\"Fulvestrant\": 1, \"TEAE\": \"QT prolongation\", \"Vepdegestrant\": 10}",
+          "{\"Fulvestrant\": 10, \"TEAE\": \"ALT increased\", \"Vepdegestrant\": 14}",
+          "{\"Fulvestrant\": 10, \"TEAE\": \"AST increased\", \"Vepdegestrant\": 12}",
+          "{\"Fulvestrant\": 16, \"TEAE\": \"Fatigue\", \"Vepdegestrant\": 27}",
+          "{\"Fulvestrant\": 18, \"TEAE\": \"Grade \\u22653\", \"Vepdegestrant\": 23}",
+          "{\"Fulvestrant\": 5, \"TEAE\": \"Decreased appetite\", \"Vepdegestrant\": 1}",
+          "{\"Fulvestrant\": 5, \"TEAE\": \"Neutropenia\", \"Vepdegestrant\": 11}",
+          "{\"Fulvestrant\": 7, \"TEAE\": \"Back pain\", \"Vepdegestrant\": 11}",
+          "{\"Fulvestrant\": 8, \"TEAE\": \"Anemia\", \"Vepdegestrant\": 11}",
+          "{\"Fulvestrant\": 81, \"TEAE\": \"Any grade\", \"Vepdegestrant\": 87}",
+          "{\"Fulvestrant\": 9, \"TEAE\": \"Nausea\", \"Vepdegestrant\": 12}",
+          "{\"Fulvestrant\": 9, \"TEAE\": \"Serious\", \"Vepdegestrant\": 10}"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 8
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 11
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 12
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 13
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 14
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 17
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 18
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 66
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 67
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 68
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-110",
+    "timeline": {
+      "2020": {
+        "targets": [
+          "AR",
+          "Androgen Receptor",
+          "F877L",
+          "H875Y",
+          "M895V",
+          "T878A",
+          "androgen receptor"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "10 mpk ARV-110: 70% tumor growth inhibition",
+          "ARV-110 demonstrates efficacy and plasma PSA reduction in an enzalutamide-insensitive patient derived xenograft model",
+          "ARV-110 inhibits tumor growth in an in vivo model of acquired enzalutamide resistance",
+          "Anti-Tumor Activity (PSA, RECIST)",
+          "Biomarkers",
+          "Confirmed RECIST partial response in a patient with a PCWG3",
+          "Daily and orally delivered ARV-110 significantly inhibited tumor growth",
+          "Degrades >90% AR protein in vivo",
+          "Duration of ARV\u2010110: 18 weeks and ongoing",
+          "In vivo activity in multiple xenograft models",
+          "Maximum Tolerated Dose/Recommended Phase 2 Dose/Safety",
+          "Near complete regression of adenopathy after 4 cycles",
+          "Orally delivered ARV-110 significantly inhibited tumor growth in these intrinsically enza-insensitive tumors (TGI: 100%)",
+          "PSA: 97% decline",
+          "Pharmacokinetics",
+          "Plasma PSA levels following ARV-110 treatment significantly decreased vs. mice treated with vehicle or enzalutamide",
+          "Preclinical profile translating into clinical benefit",
+          "Proves the concept of PROTAC targeted protein degradation, validating our confidence in our pipeline of degraders",
+          "Proving the concept of PROTAC protein degradation",
+          "RECIST: 80% reduction in tumor measurements",
+          "Signals of efficacy in a heavily pretreated patient population with high unmet need, where traditional inhibitors have failed",
+          "clear initial efficacy signal in dose escalation",
+          "degrades AR in tumor tissue",
+          "early clinical proof-of-concept (safety, AR degradation, efficacy) demonstrated",
+          "first PROTAC degrader with an efficacy signal in humans",
+          "first evidence for androgen receptor degradation in patients",
+          "first proof of mechanism for PROTAC\u00ae protein degraders",
+          "highly selective degradation of AR",
+          "overcomes known resistance mechanisms to enzalutamide and abiraterone",
+          "overcomes mechanisms of resistance to current standards of care",
+          "potential to address unmet patient need in 1L mCRPC and mCSPC",
+          "potentially first- and best-in-class AR-targeted therapy",
+          "safety profile acceptable for potential use in frontline settings",
+          "selectively degrades AR"
+        ],
+        "safety": [
+          "6 patients on other statins, including 3 on atorvastatin (Lipitor\u00ae) and no ALT/AST adverse events",
+          "ARV-110 is not blood-brain barrier penetrant",
+          "Does not degrade L702H or AR-V7",
+          "Dose increases dependent on toxicities: range 25% (if 1 DLT in 6 pts) to 100% (\u2264Grade 1 Adverse Events)",
+          "First patient with DLT: Grade 3/4 ALT/AST and renal failure",
+          "Following introduction of rosuvastatin restriction, no further elevation in LFTs observed",
+          "No DLTs",
+          "No dose limiting toxicities (DLTs)",
+          "No grade 2/3/4 treatment related AEs",
+          "No treatment related Adverse Events (AEs)",
+          "Patient continues on ARV\u2010110 with no further toxicity",
+          "Second patient with Grade 3 ALT/AST; re\u2010challenge off rosuvastatin supported contribution of rosuvastatin",
+          "dose escalation continues",
+          "early clinical safety data presented",
+          "favorable safety profile observed in the first 3 cohorts",
+          "generally well tolerated",
+          "initial safety/pharmacokinetic data shared Oct. 2019",
+          "{\"adverse_event\": \"ALT increased\", \"count\": 5, \"grade\": \"Gr \\u22642\", \"percentage\": 23}",
+          "{\"adverse_event\": \"AST increased\", \"count\": 4, \"grade\": \"Gr \\u22642\", \"percentage\": 18}",
+          "{\"adverse_event\": \"Diarrhea\", \"count\": 6, \"grade\": \"Gr \\u22642\", \"percentage\": 27}",
+          "{\"adverse_event\": \"Fatigue\", \"count\": 6, \"grade\": \"Gr \\u22642\", \"percentage\": 27}",
+          "{\"adverse_event\": \"Lymphocyte count decreased\", \"count\": 4, \"grade\": \"Gr \\u22642\", \"percentage\": 18}",
+          "{\"adverse_event\": \"Nausea\", \"count\": 13, \"grade\": \"Gr \\u22642\", \"percentage\": 59}",
+          "{\"adverse_event\": \"Vomiting\", \"count\": 4, \"grade\": \"Gr \\u22642\", \"percentage\": 18}"
+        ]
+      },
+      "2022": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "Robust signals of efficacy",
+          "manageable tolerability",
+          "potential path to accelerated approval"
+        ],
+        "safety": [
+          "Low rates of discontinuation or dose reduction from the RP2D due to TRAEs",
+          "The majority of TRAEs are Grade 1 or 2",
+          "no Grade \u22654 TRAEs"
+        ]
+      },
+      "2021": {
+        "targets": [
+          "androgen receptor"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "AR degradation and late-line activity suggest strong potential across multiple disease states",
+          "AR molecular profiling identifies a molecularly defined, late line population that may offer a possible path to accelerated approval",
+          "ARV-110 has shown clinical benefit in Phase 1 in a highly refractory patient population",
+          "ARV-110 is well tolerated, allowing continued dose escalation up to 700 mg daily",
+          "encouraging efficacy signals",
+          "may overcome point mutations and other drivers of resistance",
+          "substantially exceeded expectations for PSA50 responses",
+          "suggests potential for accelerated approval",
+          "suggests potential in early prostate cancer"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 1
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 3
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 4
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 6
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 8
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 9
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 11
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 12
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 14
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 15
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 16
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 17
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 19
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 20
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 21
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 22
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 26
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 1
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 3
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 14
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 15
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 16
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 17
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 11
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 12
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 1
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 8
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 9
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 10
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 11
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 12
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 31
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 32
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARDENT",
+    "timeline": {
+      "2021": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "High potential for patient benefit in earlier-line, more AR-dependent patients",
+          "Strong signal in molecularly defined patient populations",
+          "Well tolerated; no TRAEs Gr >2"
+        ],
+        "safety": [
+          "Safety cut-off date: October 2, 2020"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 35
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "AR T878X/875Y",
+    "timeline": {
+      "2022": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "46% PSA50 rate",
+          "Durable partial responses",
+          "Tumor regression"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 15
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-102",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "C1QTNF1",
+          "CD68",
+          "CTSH",
+          "Cathepsin B",
+          "ENTPD1",
+          "GPNMB",
+          "GRN",
+          "IBA1",
+          "LRRK2",
+          "TMEM106A"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "50x greater pathway engagement with ARV-102",
+          "50x greater target engagement with ARV-102",
+          ">50% decreases in phospho-Rab10T73 and BMP in urine",
+          "ARV-102 degrades LRRK2 in NHP deep-brain regions",
+          "ARV-102 induced dose-dependent reductions in LRRK2 levels in CSF, with >50% LRRK2 reduction at single doses \u226560 mg and repeated doses \u226520 mg",
+          "CSF levels of LRRK2 track cortex LRRK2",
+          "Cathepsin B is reduced by ARV-102",
+          "Decreased LRRK2 protein levels in PBMCs after a single oral dose",
+          "Dose-dependently increased degradation efficiency and lysosome number vs kinase inhibitors",
+          "Enrollment complete",
+          "Final data from HV SAD/MAD cohorts presented at MDS",
+          "First-in-human data presented during oral presentation at AD/PD",
+          "GPNMB is reduced by ARV-102",
+          "IBA1 is reduced by ARV-102",
+          "Increases lysosome degradation in A549 cells",
+          "Increases lysosome functional degradative capacity and number in cells",
+          "Increases lysosome number in A549 cells",
+          "Investigational compound. Its safety and effectiveness have not been established.",
+          "Orally dosed ARV-102 reaches multiple deep brain regions in NHPs and degrades LRRK2 up to 94%",
+          "Presenting initial single ascending dose data",
+          "Putative LRRK2 biomarkers associated with disease are reduced in non-human primate CSF after dosing with ARV-102",
+          "better target engagement",
+          "dose-dependent increases in LRRK2 reductions in CSF indicate brain penetration and target engagement",
+          "dose-dependent increases in exposure in cerebral spinal fluid after single and multiple doses indicated brain penetration",
+          "enhanced potency",
+          "normalization of cytokine and purinergic signaling",
+          "pathway engagement versus a LRRK2 inhibitor",
+          "reduced lysosomal markers reflecting effects on proteolysis, lysosomal integrity, and microglial activation",
+          "reductions in downstream LRRK2 pathway biomarkers in blood cells and urine",
+          "significant reductions in lysosomal pathway markers"
+        ],
+        "safety": [
+          "Safety",
+          "Tolerability"
+        ]
+      },
+      "2024": {
+        "targets": [
+          "LRRK2"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC",
+          "PROTAC\u00ae Degrader"
+        ],
+        "claims": [
+          "Potential for oral therapies",
+          "Potential to cross the blood brain barrier and degrade disease-causing proteins inside cells",
+          "Specifically target pathogenic proteins in the brain"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 11
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 13
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 17
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 19
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 20
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 22
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 23
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 24
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 25
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 26
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 27
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 5
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 14
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-027",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "polyQ-AR"
+        ],
+        "e3_ligases": [
+          "True"
+        ],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "induced polyQ-AR degradation in muscle tissues",
+          "rescued strength and endurance"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 29
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 32
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 33
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-393",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "BCL6",
+          "CDKN1B",
+          "IRF4",
+          "PTPN6"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "ARV-393 rapidly degrades >90% of BCL6 within 2 hours",
+          "Broad combinability with complete tumor regressions in combination with SOC biologics and investigational small molecule agents",
+          "Demonstrated significant anti-tumor single-agent activity",
+          "Potent, orally bioavailable PROTAC small molecule degrader of BCL6",
+          "breadth of efficacy beyond DLBCL demonstrated in multiple patient-derived xenograft (PDX) models with no body weight loss",
+          "degradation is mediated by PROTAC mechanism",
+          "demonstrated >90% TGI",
+          "demonstrates activity in combination with SOC chemotherapy/biologics",
+          "demonstrates activity in combination with small molecule inhibitors",
+          "drives tumor regressions, including complete responses",
+          "drives tumor regressions, including complete responses, in preclinical models",
+          "evidence of significant efficacy comparable to SOC romidepsin",
+          "exhibits picomolar degradation potency",
+          "induces dose-dependent and sustained tumor growth inhibition",
+          "induces tumor growth inhibition in PDX models of various non-Hodgkin lymphoma subtypes",
+          "investigational compound",
+          "no adverse impact on animal health/body weight",
+          "overcomes BCL6 high resynthesis rate",
+          "potential to be an attractive combination partner for development of novel treatment options",
+          "potently degrades BCL6",
+          "safety and effectiveness have not been established",
+          "tumor regression at 30 mg/kg dosed once per day"
+        ],
+        "safety": [
+          "no body weight loss"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 34
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 37
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 38
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 39
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 40
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 41
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 42
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 43
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 44
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 45
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 46
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 47
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-806",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "KRAS G12D"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          ">25-fold greater potency in reducing cancer cell proliferation compared with clinical-stage KRAS G12D ON and OFF inhibitors and a clinical-stage G12D degrader",
+          ">25-fold more potent than all G12D-targeting competitors",
+          ">40-fold higher potency in degrading KRAS G12D protein vs the comparable clinical-stage G12D degrader",
+          ">40-fold more potent than KRAS G12D levels",
+          "ARV-806 degrades KRAS G12D with picomolar potency",
+          "ARV-806 demonstrates exquisite selectivity for KRAS G12D, indicating a robust therapeutic index",
+          "ARV-806 effectively eliminates KRAS G12D from cancer cells",
+          "ARV-806 forms a ternary complex with both OFF (GDP-bound) and ON (GTP-bound) KRAS G12D",
+          "ARV-806 is a highly potent, selective degrader of KRAS G12D",
+          "ARV-806 is selective for KRAS G12D",
+          "ARV-806 treatment directly leads to ubiquitination of KRAS G12D protein",
+          "Catalytic activity (overcomes upregulation, a common mechanism of resistance to inhibitor treatment)",
+          "Demonstrates anti-proliferative activity approximately 25 times greater than KRAS inhibitors and the leading clinical-stage degrader",
+          "Investigational compound. Safety and effectiveness have not been established.",
+          "KRAS G12D reduced >90% for 7 days",
+          "Proliferative marker (c-MYC) suppressed and pro-apoptotic marker (BIM) increased for 5 days",
+          "Targeting both OFF and ON KRAS G12D allows ARV-806 to eliminate this oncogenic protein from the cell",
+          "leads to robust and extended degradation and signaling suppression in vivo",
+          "more potently increases apoptosis (cell death)",
+          "more potently induces pancreatic cancer cell death in vitro relative to clinical-stage inhibitors and degrader",
+          "\u226530% tumor volume reductions in a patient-derived xenograft (PDX) model of lung cancer",
+          "\u226530% tumor volume reductions in pancreatic and colorectal CDX models"
+        ],
+        "safety": [
+          "pharmacokinetics (PK)",
+          "preliminary antitumor activity",
+          "safety",
+          "tolerability"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 48
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 49
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 52
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 53
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 54
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 55
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 56
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 57
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 58
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "VEPDEGESTRANT",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "estrogen receptor"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "Patient reported outcomes data demonstrate that vepdegestrant significantly reduced risk of deterioration in measures of overall health status compared to fulvestrant",
+          "Vepdegestrant met its primary endpoint of improvement in progression-free survival versus the standard of care, fulvestrant",
+          "Vepdegestrant was well tolerated, with low rates of discontinuation"
+        ],
+        "safety": [
+          "low rates of discontinuation",
+          "well tolerated"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 61
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-766",
+    "timeline": {
+      "2023": {
+        "targets": [
+          "AR L702H",
+          "H875Y",
+          "T878X"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "3 of 3 patients with co-occurring AR T878/H875/L702H mutations achieved PSA50",
+          "42% of patients with AR LBD mutations achieved PSA50",
+          "RECIST partial responses observed",
+          "addresses an unmet need for durable and tolerable treatments",
+          "good tolerability profile",
+          "low rates of discontinuation or dose reduction",
+          "majority of TRAEs are Grade 1 or 2",
+          "no Grade \u22654 TRAEs",
+          "precision medicine opportunity",
+          "promising efficacy signals",
+          "promising efficacy signals in heavily pretreated patients",
+          "promising efficacy signals in late-line mCRPC",
+          "well-tolerated"
+        ],
+        "safety": [
+          "low rates of discontinuation or dose reduction",
+          "majority of TRAEs are Grade 1 or 2",
+          "no Grade \u22654 TRAEs",
+          "well tolerated to date",
+          "{\"AST_increased\": 0, \"Cr_increased\": 1, \"diarrhea\": 1, \"dry_mouth\": 0, \"fatigue\": 3, \"grade\": 2, \"hypophosphataemia\": 0, \"nausea\": 2, \"total\": 7}",
+          "{\"AST_increased\": 1, \"Cr_increased\": 0, \"fatigue\": 1, \"grade\": 3, \"total\": 2}",
+          "{\"AST_increased\": 2, \"Cr_increased\": 2, \"diarrhea\": 3, \"dry_mouth\": 2, \"fatigue\": 3, \"grade\": 1, \"hypophosphataemia\": 2, \"nausea\": 2, \"total\": 9, \"vomiting\": 2}"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 1
+      },
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 3
+      },
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 4
+      },
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 5
+      },
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 7
+      },
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 9
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "BCL6",
+    "timeline": {
+      "2020": {
+        "targets": [
+          "BCL6"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          ">95% degradation of BCL6 in vivo"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 18
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "Tg25081",
+    "timeline": {
+      "2020": {
+        "targets": [
+          "tau"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "Dose-Dependently Reduce tau in the Brain of Tauopathy Mice Following Parenteral Administration"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 20
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "PROTAC 1",
+    "timeline": {
+      "2020": {
+        "targets": [
+          "p38\u03b1"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 30
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "LRRK2 PROTAC",
+    "timeline": {
+      "2024": {
+        "targets": [
+          "LRRK2"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "PROTAC"
+        ],
+        "claims": [
+          "LRRK2 PROTAC degraders induce reduction of pathologic tau",
+          "Reduction of pathologic (AT8) Tau induced by LRRK2 PROTAC",
+          "enhances lysosome-based degradation",
+          "induces enhanced lysosomal clearance"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 10
+      }
+    ]
+  },
+  {
+    "company": "nurix",
+    "program_name": "bexobrutideg",
+    "timeline": {
+      "2026": {
+        "targets": [
+          "BTK"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "22.1-month median PFS",
+          "83% ORR",
+          "Active against wildtype BTK and overcomes BTK inhibitor resistance mutations",
+          "Acts catalytically with unprecedented potency",
+          "Crosses the blood brain barrier with clinical responses in patients with advanced CNS disease",
+          "Degradation removes all functions of BTK unlike BTK inhibitors",
+          "Demonstrates robust clinical activity in difficult to treat B-cell malignancies",
+          "Exquisitely selective degrader of BTK",
+          "Long-term Disease Control",
+          "No dose-limiting toxicities",
+          "No systemic fungal infections or Grade 4 infections of any kind reported",
+          "Robust Response Rate",
+          "Tolerable safety profile"
+        ],
+        "safety": [
+          "Comparable AE profile for patients overall and at the 600 mg dose selected per Project Optimus",
+          "Single event of new onset atrial fibrillation consistent with the rate in the age-matched general population",
+          "Three Grade 5 AEs (all deemed not related to bexobrutideg)"
+        ]
+      },
+      "2025": {
+        "targets": [
+          "BTK"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "degrader",
+          "small molecule"
+        ],
+        "claims": [
+          "130 NHL patients treated to date in NX-5948-301",
+          "75% ORR in WM with responses deepening over time including 3 VGPRs",
+          "83% ORR with a 20.1 month median duration of response in CLL",
+          "Accelerated Approval",
+          "Active against wildtype BTK and demonstrated ability to overcome treatment-emergent resistance mutations",
+          "Acts catalytically driving degradation at low free-plasma concentrations",
+          "Addresses BTK scaffolding function unlike current BTK inhibitors",
+          "Crosses the blood brain barrier and demonstrated clinical activity in the CNS",
+          "Demonstrates robust clinical activity in difficult to treat B-cell malignancies",
+          "Median duration of response was not reached in WM",
+          "Multiple CR/CMRs observed in all cohorts (DLBCL, MCL, FL, MZL, PCNSL)",
+          "ORR of 83.0%",
+          "Potent and exquisitely selective degrader of BTK",
+          "Progression free survival tracking well above standard of care with a current estimate of 22.1 months in CLL",
+          "Well tolerated with low rate of discontinuation in CLL",
+          "can overcome treatment-emergent BTKi resistance mutations",
+          "disrupt BTK scaffolding",
+          "maximizes 2L market share opportunity",
+          "median DOR of 20.1 months",
+          "median PFS of 22.1 months",
+          "provides potential path to 1L CLL",
+          "will outperform all components of the investigator\u2019s choice arm"
+        ],
+        "safety": [
+          "AEs predominantly low grade",
+          "No DLTs noted",
+          "No atrial fibrillation observed",
+          "Safety Run-in",
+          "Well tolerated with low rate of discontinuation in CLL",
+          "most common AEs were neutropenia, petechiae, diarrhea, anemia, purpura/contusion, and thrombocytopenia",
+          "no Grade 5 AEs",
+          "safety follow-up",
+          "two TEAEs led to drug discontinuation",
+          "well tolerated"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 5
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 8
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 14
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 15
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 7
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 10
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 35
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 37
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 38
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 40
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 41
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 42
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 45
+      }
+    ]
+  },
+  {
+    "company": "nurix",
+    "program_name": "Bexobrutideg",
+    "timeline": {
+      "2026": {
+        "targets": [
+          "BTK"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "degrader"
+        ],
+        "claims": [
+          "Accelerated Approval",
+          "Active against wildtype BTK and overcomes BTK inhibitor resistance mutations",
+          "Acts catalytically with unprecedented potency",
+          "Crosses the blood brain barrier with clinical responses",
+          "Crosses the blood brain barrier with clinical responses in patients with advanced CNS disease",
+          "Degradation removes all functions of BTK",
+          "Degradation removes all functions of BTK unlike BTK inhibitors",
+          "Demonstrates robust clinical activity in difficult to treat B-cell malignancies",
+          "Designed to evaluate superiority to latest approved BTKi, pirtobrutinib",
+          "Efficacy across all doses (50mg \u2013 600mg)",
+          "Exquisitely selective degrader of BTK",
+          "First 'deg' with a potential best-in-class profile",
+          "High objective response rate",
+          "Median progression-free survival (PFS) 22.1 months",
+          "Most potent cell killing",
+          "Objective response rate (ORR) 83.0%",
+          "Only BTK degrader to demonstrate clinical activity in patients with CNS disease including complete responses",
+          "Prolonged PFS",
+          "Removes both BTK enzymatic activity and scaffolding functions",
+          "Selectively degrades BTK with no off-target degradation",
+          "Superior mutational coverage compared to BTK inhibitors"
+        ],
+        "safety": [
+          "Safety follow-up"
+        ]
+      },
+      "2025": {
+        "targets": [
+          "BTK"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "degrader"
+        ],
+        "claims": [
+          "Active against wildtype BTK and demonstrated ability to overcome treatment-emergent resistance mutations",
+          "Acts catalytically driving degradation at low free-plasma concentrations",
+          "Addresses BTK scaffolding function unlike current BTK inhibitors",
+          "Crosses the blood brain barrier and demonstrated clinical activity in the CNS",
+          "Demonstrates robust clinical activity in difficult to treat B-cell malignancies",
+          "High Overall Response Rate",
+          "High objective response rate and prolonged PFS in r/r CLL patients",
+          "Median progression-free survival (PFS) 22.1 months",
+          "Objective response rate (ORR) 83.0%",
+          "Potent and exquisitely selective degrader of BTK",
+          "Potential to address a current and anticipated future unmet medical need"
+        ],
+        "safety": [
+          "600 mg cleared for pivotal studies in r/r CLL"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 7
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 9
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 10
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 11
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 12
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 18
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 19
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 22
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 1
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 4
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 5
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 6
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 8
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 9
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 15
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 30
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 33
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 36
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 39
+      }
+    ]
+  },
+  {
+    "company": "nurix",
+    "program_name": "NX-5948-203",
+    "timeline": {
+      "2026": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "ORR per iwCLL as assessed by IRC"
+        ],
+        "safety": [
+          "Safety follow-up",
+          "Safety run-in"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 20
+      }
+    ]
+  },
+  {
+    "company": "nurix",
+    "program_name": "Bexobrutideg (NX-5948)",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "Bruton\u2019s Tyrosine Kinase (BTK)",
+          "Bruton\u2019s tyrosine kinase (BTK)"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "Degrader",
+          "degrader"
+        ],
+        "claims": [
+          "Demonstrates Rapid and Durable Clinical Responses",
+          "High Clinical Activity",
+          "Shows High Clinical Activity and Tolerable Safety",
+          "Tolerable Safety",
+          "demonstrates rapid and durable clinical responses"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 12
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 14
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 29
+      }
+    ]
+  },
+  {
+    "company": "nurix",
+    "program_name": "NX-5948",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "Bruton\u2019s Tyrosine Kinase (BTK)"
+        ],
+        "e3_ligases": [],
+        "modalities": [
+          "degrader"
+        ],
+        "claims": [
+          "Demonstrates Rapid and Durable Clinical Responses",
+          "Shows High Clinical Activity and Tolerable Safety"
+        ],
+        "safety": []
+      }
+    },
+    "evidence": [
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 13
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 28
+      }
+    ]
+  },
+  {
+    "company": "nurix",
+    "program_name": "NX-5948-301",
+    "timeline": {
+      "2025": {
+        "targets": [],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [],
+        "safety": [
+          "{\"discontinued_treatment\": 13, \"reasons\": {\"adverse_event\": 4, \"clinical_progression\": 5, \"death\": 1, \"physician_decision\": 1, \"radiographic_progression\": 2}}",
+          "{\"discontinued_treatment\": 22, \"reasons\": {\"adverse_event\": 4, \"clinical_progression\": 5, \"death\": 1, \"patient_withdrew_consent\": 1, \"physician_decision\": 1, \"prohibited_medication_procedure\": 1, \"radiographic_progression\": 9}}"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 16
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 17
+      }
+    ]
+  },
+  {
+    "company": "nurix",
+    "program_name": "bexobrutideg (NX-5948)",
+    "timeline": {
+      "2025": {
+        "targets": [
+          "BTK"
+        ],
+        "e3_ligases": [],
+        "modalities": [],
+        "claims": [
+          "CR rate of 4.3%",
+          "Median DOR of 20.1 months",
+          "Median PFS of 22.1 months",
+          "ORR of 83%",
+          "higher ORR and superior PFS at the 600 mg dose",
+          "well tolerated in a heavily pretreated population"
+        ],
+        "safety": [
+          "tolerable safety profile consistent with prior disclosures"
+        ]
+      }
+    },
+    "evidence": [
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 27
+      }
+    ]
+  }
+]

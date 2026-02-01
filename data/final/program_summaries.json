@@ -1,0 +1,4127 @@
+[
+  {
+    "company": "monte_rosa",
+    "program_name": "PIPELINE_OVERVIEW",
+    "summary": "Monte Rosa's pipeline focuses on targeted protein degradation (TPD) with a broad range of potential targets, including over 3,000 predicted degron-containing proteins, many of which are considered undruggable. The company is developing molecular glue degraders (MGDs) that aim to selectively degrade specific proteins involved in various diseases, including cancers and inflammatory conditions. Key therapeutic areas include oncology, immunology, and neurodegenerative diseases, with indications spanning from ALS and Alzheimer's disease to various cancers such as breast and prostate cancer. Monte Rosa's clinical programs include several candidates in different phases, including MRT-2359 and MRT-8102, which have shown promising initial clinical activity and favorable safety profiles. The company emphasizes a disease-agnostic approach, targeting proteins that are difficult to address with traditional therapies.",
+    "evidence": [
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 2
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 3
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 4
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 5
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 6
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 17
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Keystone2024_FINAL.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 4
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 5
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 22
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 2
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 3
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 4
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 5
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 6
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 7
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 8
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 9
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 16
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 18
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 19
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 3
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 6
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 7
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 8
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 9
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 10
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 11
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 13
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 14
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 17
+      },
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 19
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 3
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 4
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 5
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 7
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 8
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 10
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 13
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 14
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 15
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 16
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 17
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 18
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 19
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 22
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 23
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 24
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 25
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 26
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 28
+      },
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 29
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 2
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 3
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 4
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 5
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 6
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 7
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 8
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 9
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 10
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 12
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 13
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 14
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 15
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 16
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 17
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 18
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 19
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 20
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 21
+      },
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 2
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 3
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 4
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 6
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Keystone_FINAL.pdf",
+        "slide": 21
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 4
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 5
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 6
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 8
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 9
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 11
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 18
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 19
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 20
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 22
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 25
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 26
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 2
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 3
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 4
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 5
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 6
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 7
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 8
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 9
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 10
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 13
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 14
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 15
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 17
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 18
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 2
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 4
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 6
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 7
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 8
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 9
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 10
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 12
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 13
+      },
+      {
+        "document": "EULAR 2025 NEK7 Presentation.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 3
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 5
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 24
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 26
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 29
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 30
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 32
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 33
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 35
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 37
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 38
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 40
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 41
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 43
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 44
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 45
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 46
+      },
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 48
+      },
+      {
+        "document": "AACR-NCI-EORTC Late Breaking Presentation.pdf",
+        "slide": 3
+      },
+      {
+        "document": "AACR-NCI-EORTC Late Breaking Presentation.pdf",
+        "slide": 4
+      },
+      {
+        "document": "AACR-NCI-EORTC Late Breaking Presentation.pdf",
+        "slide": 6
+      },
+      {
+        "document": "AACR-NCI-EORTC Late Breaking Presentation.pdf",
+        "slide": 8
+      },
+      {
+        "document": "AACR-NCI-EORTC Late Breaking Presentation.pdf",
+        "slide": 9
+      },
+      {
+        "document": "AACR-NCI-EORTC Late Breaking Presentation.pdf",
+        "slide": 10
+      },
+      {
+        "document": "34th EORTC-NCI-AACR Symposium.pdf",
+        "slide": 3
+      },
+      {
+        "document": "34th EORTC-NCI-AACR Symposium.pdf",
+        "slide": 4
+      },
+      {
+        "document": "34th EORTC-NCI-AACR Symposium.pdf",
+        "slide": 6
+      },
+      {
+        "document": "34th EORTC-NCI-AACR Symposium.pdf",
+        "slide": 7
+      },
+      {
+        "document": "34th EORTC-NCI-AACR Symposium.pdf",
+        "slide": 10
+      },
+      {
+        "document": "34th EORTC-NCI-AACR Symposium.pdf",
+        "slide": 11
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 3
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 4
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 5
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 6
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 9
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 10
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 11
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 12
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 17
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 18
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 20
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 21
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 22
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 25
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 3
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 6
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 7
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 8
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 10
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 11
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 12
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 13
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 14
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 17
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 18
+      },
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 19
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 5
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 10
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 13
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 14
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 17
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 19
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 22
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 25
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 26
+      },
+      {
+        "document": "Keystone Symposia - MRT-6160.pdf",
+        "slide": 5
+      },
+      {
+        "document": "Keystone Symposia - MRT-6160.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Keystone Symposia - MRT-6160.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Keystone Symposia - MRT-6160.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Keystone Symposia - MRT-6160.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Keystone Symposia - MRT-6160.pdf",
+        "slide": 15
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 2
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 5
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 7
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 8
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 10
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 11
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 12
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 13
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 17
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 18
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 19
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 20
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 21
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 24
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 25
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 26
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 27
+      },
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 6
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 24
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 26
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 29
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 3
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 6
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 7
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 8
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 9
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 11
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 12
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 13
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 15
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 17
+      },
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 3
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 4
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 24
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 25
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 26
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 28
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 2
+      },
+      {
+        "document": "AACR 2023_Gerald.pdf",
+        "slide": 3
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-2359",
+    "summary": "Monte Rosa is developing MRT-2359, a targeted protein degradation drug that focuses on several targets, including CK1a, GSPT1, and MYC, among others. The drug is being explored for indications such as MYC-driven cancers, including lung cancer and metastatic castration-resistant prostate cancer. MRT-2359 utilizes modalities like Molecular Glue Degrader and is currently in various clinical phases, including Phase 1/2 and dose escalation. The drug has shown robust anti-tumor activity, particularly in MYC-driven lung cancer models, with a reported overall disease control rate of 64%. Safety assessments indicate no activity in a panel of 44 safety targets, with only mild to moderate gastrointestinal adverse events noted. MRT-2359 is characterized as potent, selective, and orally bioavailable, demonstrating a favorable ADMET profile.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 3
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 10
+      },
+      {
+        "document": "AACR2023__Owen_Final1.pdf",
+        "slide": 15
+      },
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 23
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 1
+      },
+      {
+        "document": "5th Annual TPD Summit - Preclinical and Mechanism of Action Studies of MRT-2359.pdf",
+        "slide": 16
+      },
+      {
+        "document": "34th EORTC-NCI-AACR Symposium.pdf",
+        "slide": 1
+      },
+      {
+        "document": "34th EORTC-NCI-AACR Symposium.pdf",
+        "slide": 13
+      },
+      {
+        "document": "MRT-2359 KOL Webinar, October 24, 2022.pdf",
+        "slide": 15
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "GSPT1 Program",
+    "summary": "Monte Rosa is advancing its GSPT1 Program, which is currently in Phase I of clinical development. The program focuses on targeted protein degradation, although specific targets, modalities, E3 ligases, indications, and therapeutic areas have not been disclosed. The latest update on the program was presented during a company call on October 17, 2023.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 6
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-2359-001",
+    "summary": "Monte Rosa is advancing its targeted protein degradation program MRT-2359-001, which is currently in Phase 1 and Phase 2 clinical trials. The program is investigating multiple indications, including DLBCL, HR+/Her2- breast cancer in combination with Fulvestrant, various lung cancers (NSCLC and SCLC), N-/L-MYC amplified solid tumors, prostate cancer in combination with Enzalutamide, high-grade neuroendocrine tumors, and solid tumors with N-/L-MYC amplification. Preliminary data suggest that MRT-2359-001 demonstrates dose-dependent pharmacokinetics and significant degradation of GSPT1 at safe dose levels in peripheral blood mononuclear cells and tissue biopsies, with a reported degradation rate of 60% based on preclinical findings. Additionally, there are indications of potential preliminary efficacy signals in biomarker-positive patients.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Company Call Presentation - October 17 2023.pdf",
+        "slide": 10
+      },
+      {
+        "document": "34th EORTC-NCI-AACR Symposium.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 14
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "QuEEN™ Discovery Platform",
+    "summary": "Monte Rosa is developing a targeted protein degradation drug program through its QuEEN™ Discovery Platform, focusing on undruggable targets. The program utilizes molecular glue degraders (MGDs) and employs Cereblon as an E3 ligase. Currently, there are no specific indications or therapeutic areas disclosed, and the program does not have any clinical phases or safety claims reported. The information is based on a presentation from the 2nd Annual TPD Europe Summit.",
+    "evidence": [
+      {
+        "document": "2nd Annual TPD Europe Summit.pdf",
+        "slide": 5
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "NEK7 MGD – MRT-8102",
+    "summary": "Monte Rosa is developing a targeted protein degradation program named NEK7 MGD – MRT-8102. Currently, there are no specific targets, modalities, E3 ligases, indications, therapeutic areas, or clinical phases disclosed for this program. The available evidence is referenced in a document titled \"NEK7 Inflammasome Summit_Monte Rosa,\" specifically on slide 12. Further details regarding the program's progress or outcomes have not been provided.",
+    "evidence": [
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 12
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-8046",
+    "summary": "Monte Rosa is developing a targeted protein degradation drug program named MRT-8046, which targets NEK7 and utilizes the MGD modality. The program is focused on treating gout and has demonstrated the ability to reduce MSU-driven effects in a rabbit gout model, as noted in a presentation at the NEK7 Inflammasome Summit. There are currently no disclosed clinical phases or safety data for MRT-8046.",
+    "evidence": [
+      {
+        "document": "NEK7 Inflammasome Summit_Monte Rosa.pdf",
+        "slide": 21
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "fAIceit-degron™",
+    "summary": "Monte Rosa is developing a targeted protein degradation program called fAIceit-degron™, which focuses on the protein IKZF1. Currently, there are no disclosed modalities, E3 ligases, indications, therapeutic areas, or clinical phases associated with this program. The information regarding this program was presented at the 5th Annual TPD Summit, specifically noted on slide 11 of the associated document.",
+    "evidence": [
+      {
+        "document": "5th Annual TPD Summit - AI Applications for Molecular Glue Degraders.pdf",
+        "slide": 11
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MODeFIRe-1",
+    "summary": "Monte Rosa is advancing its targeted protein degradation program, MODeFIRe-1, which is currently in Phase 2 clinical trials. The program is focused on treating metastatic castration-resistant prostate cancer (mCRPC) with androgen receptor (AR) mutations. Specific details regarding the targets, modalities, and E3 ligases involved in the program have not been disclosed. Further information can be found in the clinical data update document.",
+    "evidence": [
+      {
+        "document": "MRT-2359 Clincial Data Update.pdf",
+        "slide": 21
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "VAV1 Program (MRT-6160)",
+    "summary": "Monte Rosa is developing the VAV1 Program (MRT-6160) as part of its targeted protein degradation (TPD) initiatives. Currently, there are no specific targets, modalities, E3 ligases, indications, therapeutic areas, or clinical phases disclosed for this program. The latest information regarding the program was presented in a pipeline update on March 20, 2025. Further details about the program's development and progress have not been provided.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 4
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "VAV1 MGD MRT-6160",
+    "summary": "Monte Rosa is developing a targeted protein degradation drug program named VAV1 MGD MRT-6160, which is currently in Phase 1 of clinical development. The program has generated pharmacokinetic (PK) and pharmacodynamic (PD) data, along with safety information. Further details about the program were disclosed in a pipeline update document dated March 20, 2025.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 7
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-6160",
+    "summary": "Monte Rosa is developing a targeted protein degradation drug program named MRT-6160, which focuses on the protein VAV1. This program utilizes a molecular glue degrader modality and is associated with the E3 ligase Cereblon. MRT-6160 is currently in Phase 1 clinical trials, where its safety and tolerability are being evaluated. Relevant information about the program has been disclosed in documents from March 2025 and at the Keystone Symposia.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Keystone Symposia - MRT-6160.pdf",
+        "slide": 6
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "NEK7 Programs (MRT-8102 and CNS optimized)",
+    "summary": "Monte Rosa is developing the NEK7 Programs, which include MRT-8102 and a CNS-optimized variant. The details regarding specific targets, modalities, E3 ligases, indications, therapeutic areas, and clinical phases have not been disclosed. The most recent update on this program was provided in a pipeline update document dated March 20, 2025. Further information on safety and evidence related to these programs has not been specified.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 17
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-8102",
+    "summary": "Monte Rosa is developing MRT-8102, a targeted protein degradation drug aimed at the NEK7 protein, with potential applications in cardio-immunology, gout, high CRP, osteoarthritis, peripheral inflammatory diseases, and pseudogout. The program has progressed through various clinical phases, including proof of concept (PoC), multiple ascending doses (MAD), and Phase 1 studies in healthy volunteers. Key findings indicate that MRT-8102 achieved 80-90% NEK7 degradation in peripheral blood T cells following single and multiple doses, along with observed changes in CRP levels and reductions in gout/pseudogout flare pain. The safety and tolerability of the drug have been evaluated over a 28-day dosing period.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 21
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 9
+      },
+      {
+        "document": "MRT-8102 Phase 1 Clinical Data Update_.pdf",
+        "slide": 12
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "CNS-Optimized NEK7 Program",
+    "summary": "Monte Rosa is developing the CNS-Optimized NEK7 Program, although specific details regarding targets, modalities, E3 ligases, indications, therapeutic areas, clinical phases, claims, and safety have not been disclosed. The most recent update on this program was provided in a pipeline update document dated March 20, 2025. Further information about the program's progress or specific attributes has not been made available.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 25
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "GSPT1 program (MRT-2359)",
+    "summary": "Monte Rosa is developing the GSPT1 program, also known as MRT-2359. As of the latest update on March 20, 2025, there are no specific targets, modalities, E3 ligases, indications, therapeutic areas, or clinical phases disclosed for this program. The information available does not include any claims or safety data related to MRT-2359.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 31
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-2359 and Enzalutamide",
+    "summary": "Monte Rosa is developing MRT-2359 in combination with Enzalutamide for the treatment of Castrate-Resistant Prostate Cancer. The program has reported one confirmed partial response with a reduction of 57% and one prostate-specific antigen (PSA) response showing a decrease of 90%, along with two stable disease outcomes. The safety profile of the treatment has been described as favorable. This information was disclosed in a pipeline update on March 20, 2025.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 39
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "CCNE1 (Cyclin E1) and CDK2 Programs",
+    "summary": "Monte Rosa is developing targeted protein degradation programs focused on CCNE1 (Cyclin E1) and CDK2. The details regarding specific targets, modalities, E3 ligases, indications, therapeutic areas, clinical phases, safety, and evidence are not disclosed. The most recent update on the pipeline was provided in a document dated March 20, 2025.",
+    "evidence": [
+      {
+        "document": "Monte Rosa Pipeline Update - March 20, 2025.pdf",
+        "slide": 42
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MRT-048",
+    "summary": "Monte Rosa is developing a targeted protein degradation drug program named MRT-048, which targets GSPT1. This degrader modality is being investigated for its potential in treating Myc-driven cancers, specifically breast cancer. The program has demonstrated potent anti-tumor activity and confirmed target engagement, as presented in a late-breaking presentation at the AACR-NCI-EORTC conference. Currently, there are no disclosed clinical phases or safety data available for MRT-048.",
+    "evidence": [
+      {
+        "document": "AACR-NCI-EORTC Late Breaking Presentation.pdf",
+        "slide": 5
+      },
+      {
+        "document": "AACR-NCI-EORTC Late Breaking Presentation.pdf",
+        "slide": 7
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "GSPT1 degrader",
+    "summary": "Monte Rosa is developing a targeted protein degradation program focused on the GSPT1 degrader, which aims to target Myc, a protein implicated in various cancers. The program utilizes molecular glue degraders and is intended for treating Myc-driven cancers, with applications in both oncology and non-oncology therapeutic areas. The lead program was initiated in 2021, as noted in a presentation at the European Protein Degradation Congress.",
+    "evidence": [
+      {
+        "document": "European Protein Degradation Congress - September 21, 2021.pdf",
+        "slide": 2
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "Headlong",
+    "summary": "Monte Rosa is developing a targeted protein degradation program named Headlong, which focuses on the CRBN target. Currently, there are no specific indications, therapeutic areas, or clinical phases disclosed for this program. The program's details and evidence were presented in a document dated January 31, 2024.",
+    "evidence": [
+      {
+        "document": "2024.01.31.Dolgikh_MGD_Develop_Summit_final.pdf",
+        "slide": 6
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": [
+      "CDK2",
+      "Cyclin E1"
+    ],
+    "summary": "Monte Rosa is developing a targeted protein degradation program focused on the proteins CDK2 and Cyclin E1, utilizing molecular glue degraders that engage the CRBN E3 ligase. The program features a novel binding mode that does not involve G-loop engagement and offers a differentiated mechanism of action compared to traditional inhibitors. Additionally, it leverages a cryptic pocket on Cyclin E1 for its binding. Currently, there are no disclosed indications, therapeutic areas, or clinical phases associated with this program. Evidence supporting these claims can be found in a presentation from the Monte Rosa CDK2_CCNE1 TPD Summit in October 2024.",
+    "evidence": [
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 3
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "CDK2 Program",
+    "summary": "Monte Rosa is developing a targeted protein degradation program focused on CDK2, utilizing molecular glue degraders. The program aims to address ER+/HER2- breast cancer and claims to have best-in-class potential within the CDK2 class. Efficacy has been observed when used in combination with CDK4/6 inhibitors, and the degraders are noted for their high selectivity towards CDK2. Additionally, the program demonstrates RB-dependent activity, suggesting on-target effects that differentiate it from existing clinical-stage CDK2 inhibitors. Evidence supporting these claims is documented in a presentation from the TPD Summit in October 2024.",
+    "evidence": [
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 5
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 14
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "Cyclin E1 Program",
+    "summary": "Monte Rosa is developing a targeted protein degradation program focused on cyclin E1, utilizing molecular glue degraders as the therapeutic modality. The program targets cyclin E1 and is indicated for breast, endometrial, gastric, and ovarian cancers. Key claims include the sensitivity of CCNE1 amplified cell lines to cyclin E1 degradation and evidence of monotherapy efficacy in CCNE1-amplified cancer models in vivo. Additionally, the program demonstrates RB-dependent activity, suggesting on-target effects, and the sensitivity to cyclin E1 molecular glue degraders aligns with genetic dependency.",
+    "evidence": [
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Monte Rosa CDK2_CCNE1 TPD Summit Oct 2024.pdf",
+        "slide": 27
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "MGD programs",
+    "summary": "Monte Rosa is advancing its MGD programs, which focus on targeted protein degradation of several proteins, including BCL11A, CDK2, GSPT1, NEK7, and VAV1. The company is exploring these targets for a range of indications, such as autoimmune diseases, autoinflammation, various cancers (including breast, lung, and ovarian), genetic diseases, and sickle cell disease. The programs are currently in the discovery and IND-enabling phases. The information was disclosed in a presentation at the 4th Annual TPD Summit.",
+    "evidence": [
+      {
+        "document": "4th Annual TPD Summit.pdf",
+        "slide": 19
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "GSPT1/MRT-2359",
+    "summary": "Monte Rosa is developing a targeted protein degradation program named GSPT1/MRT-2359. Currently, there are no specific targets, modalities, E3 ligases, indications, therapeutic areas, or clinical phases disclosed for this program. The information available is derived from a presentation titled \"Monte Rosa TPD Summit MGDs from Bench to Clinic.\" Further details regarding safety and claims have not been provided.",
+    "evidence": [
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 6
+      }
+    ]
+  },
+  {
+    "company": "monte_rosa",
+    "program_name": "VAV1/MRT-6160",
+    "summary": "Monte Rosa is developing a targeted protein degradation program named VAV1/MRT-6160. Currently, there are no specific targets, modalities, E3 ligases, indications, therapeutic areas, or clinical phases disclosed for this program. The information available is derived from a presentation titled \"Monte Rosa TPD Summit MGDs from Bench to Clinic,\" specifically from slide 17. Further details regarding safety and evidence have not been provided.",
+    "evidence": [
+      {
+        "document": "Monte Rosa TPD Summit MGDs from Bench to Clinic.pdf",
+        "slide": 17
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "PIPELINE_OVERVIEW",
+    "summary": "Kymera is advancing a pipeline focused on targeted protein degradation (TPD) with multiple drug candidates targeting a wide range of proteins and indications. Their portfolio includes degraders for traditionally undrugged targets, such as STAT6, IRAK4, and TYK2, with applications in various therapeutic areas including immunology, oncology, and dermatology. The company utilizes a unique strategy involving novel E3 ligases to enhance the efficacy and safety of their oral small molecule degraders. Clinical data has shown promising results, including significant degradation of target proteins and improvements in biomarkers across several conditions. Kymera's approach aims to deliver biologics-like efficacy in an oral format, potentially expanding access to treatment for a large patient population.",
+    "evidence": [
+      {
+        "document": "Kymera R.pdf",
+        "slide": 2
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 6
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 29
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 31
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 33
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 34
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 35
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 40
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 41
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 42
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 43
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 44
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 46
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 48
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 49
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 50
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 51
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 54
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 56
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 58
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 59
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 60
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 61
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 62
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 63
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 67
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 69
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 72
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 2
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 4
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 31
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 32
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 34
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 35
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 36
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 37
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 40
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 41
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 42
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 43
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 44
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 46
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 47
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 48
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 51
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 3
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 6
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 25
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 27
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 31
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 34
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 35
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 39
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 40
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 44
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 48
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 49
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 56
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 63
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 64
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 65
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 5
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 6
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 17
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 34
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 39
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 44
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 54
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 59
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 71
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 77
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 80
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 81
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 86
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 87
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 89
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 24
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 31
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 32
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 33
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 34
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 35
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 37
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 38
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 40
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 46
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 51
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 52
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 53
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 57
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 43
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 45
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 48
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 51
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 53
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 60
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 63
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 5
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 17
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 18
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 24
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 25
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 26
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 29
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 30
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 34
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 38
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": [
+      "IRAK4",
+      "STAT6",
+      "TYK2"
+    ],
+    "summary": "Kymera is developing a pipeline focused on targeted protein degradation (TPD) with three main programs: IRAK4, STAT6, and TYK2. The company has highlighted clinical opportunities and has a compelling preclinical data package supporting its approach. Kymera emphasizes the advantages of its degrader technology and has outlined timelines for advancing its programs into clinical stages.",
+    "evidence": [
+      {
+        "document": "Kymera R.pdf",
+        "slide": 24
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "IRAK4",
+    "summary": "Kymera is advancing its targeted protein degradation program focused on IRAK4, which is currently in Phase 2 clinical trials. The program does not specify any particular targets, modalities, E3 ligases, indications, or therapeutic areas. There are no claims or safety data disclosed at this time. Further details can be found in the provided documentation.",
+    "evidence": [
+      {
+        "document": "Kymera R.pdf",
+        "slide": 26
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-474",
+    "summary": "Kymera is developing KT-474, an oral degrader targeting IRAK4, for indications in Alzheimer's disease, hidradenitis suppurativa, and other inflammatory diseases. The program is currently in Phase 1 and Phase 2 clinical trials. Early data suggest promising clinical activity, with robust IRAK4 degradation observed in blood and skin, leading to systemic anti-inflammatory effects and suppression of proinflammatory cytokines and chemokines. The drug has shown a favorable safety profile, being generally well-tolerated across all dose groups, with only modest, non-adverse QTcF prolongation that resolved spontaneously. Overall, the evidence indicates that KT-474 may have superior clinical potential compared to small molecule inhibitors.",
+    "evidence": [
+      {
+        "document": "Kymera R.pdf",
+        "slide": 32
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 38
+      },
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 32
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 36
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 39
+      },
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 61
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-621",
+    "summary": "Kymera is developing KT-621, a targeted protein degradation drug aimed at degrading STAT6, with potential applications in various Type 2 inflammatory diseases, including atopic dermatitis, asthma, and chronic rhinosinusitis with nasal polyps. The drug is administered orally and has shown promising results in preclinical and early clinical studies, demonstrating over 90% STAT6 degradation in blood and complete degradation in skin at certain doses. KT-621 has exhibited a safety profile similar to placebo and has been well-tolerated in multiple studies. Clinical trials are ongoing, with first-in-human studies expected to begin in the second half of 2024, and the drug is positioned to compete in a biologics-dominated market.",
+    "evidence": [
+      {
+        "document": "Kymera R.pdf",
+        "slide": 39
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 45
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 52
+      },
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 24
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 1
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 55
+      },
+      {
+        "document": "Kymera KT-621 BroADen Phase 1b Presentation_December 2025.pdf",
+        "slide": 56
+      },
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 37
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-294",
+    "summary": "Kymera is developing a targeted protein degradation drug program named KT-294, which specifically targets TYK2. This oral degrader is designed to degrade TYK2 in human cells with picomolar potency and has demonstrated complete TYK2 degradation in non-human primates, suggesting effective target engagement in clinical settings. The program is positioned as a potential best-in-class opportunity, exhibiting a biologic-like profile and replicating the phenotype of TYK2 human deficiency, with significant inhibition of IFN-α, IL-12, and IL-23 while sparing IL-10. KT-294 is expected to enter the first-in-human clinical phase in the first half of 2025.",
+    "evidence": [
+      {
+        "document": "Kymera R.pdf",
+        "slide": 53
+      },
+      {
+        "document": "Kymera R.pdf",
+        "slide": 65
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "STAT6 (KT-621)",
+    "summary": "Kymera is developing a targeted protein degradation program focused on STAT6, designated as KT-621. This program aims to provide \"Dupilumab-like Activity in a Pill.\" Currently, there are no specific indications, clinical phases, or e3 ligases disclosed for this program. The information regarding this program was presented in Kymera Therapeutics' Immunology Innovation Day presentation in May 2025.",
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 16
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-6",
+    "summary": "Kymera is developing a targeted protein degradation program named KT-6, which focuses on the protein STAT6. The modality employed in this program is a degrader, and it has demonstrated complete degradation selectivity in human PBMC proteasomes at 100 times the DC90. KT-6 exhibits excellent degradation potency and selectivity, with picomolar potency and consistent degradation across all evaluated disease-relevant cell types. The information regarding this program was presented during Kymera Therapeutics' Immunology Innovation Day in May 2025.",
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 19
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "IRF5 (KT-579)",
+    "summary": "Kymera is developing a targeted protein degradation program focused on the protein IRF5, designated as KT-579. This program utilizes an oral degrader modality and is aimed at addressing therapeutic needs in the field of immunology. Currently, there are no disclosed clinical phases, indications, or safety data associated with this program. The information regarding this program was presented in a document from Kymera Therapeutics' Immunology Innovation Day in May 2025.",
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 26
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-579",
+    "summary": "Kymera is developing a targeted protein degradation drug program named KT-579, which focuses on the protein IRF5. This oral small molecule degrader is being investigated for its potential in treating various anti-inflammatory conditions, including inflammatory bowel disease (IBD), lupus nephritis (LN), lupus, rheumatoid arthritis (RA), and systemic lupus erythematosus (SLE). Currently, KT-579 is in Phase 1 clinical trials, with human volunteer data expected in the second half of 2026 and the trial set to start in the first quarter of 2026. The program claims to have a favorable safety profile, demonstrating robust activity and selectivity while fully degrading IRF5. Safety studies indicate that KT-579 is well-tolerated, even at concentrations significantly above those predicted to be effective in humans.",
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Immunology Innovation Day Presentation_May 2025.pdf",
+        "slide": 28
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 37
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "First-in-Class Oral STAT6 Degrader Program",
+    "summary": "Kymera is developing a first-in-class oral STAT6 degrader program, which aims to provide Dupilumab-like activity in a pill form. The program is currently in the pipeline, but specific details regarding targets, indications, clinical phases, and safety have not been disclosed. The information is derived from the Kymera Therapeutics Corporate Presentation from January 2026.",
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 55
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "First-in-Class Oral IRF5 Degrader Program",
+    "summary": "Kymera is developing a first-in-class oral degrader program targeting IRF5. This program focuses on the oral administration of the degrader, although specific indications and clinical phases have not been disclosed. The information regarding this program was presented in Kymera's corporate presentation in January 2026. No details about E3 ligases, safety, or evidence supporting the program have been provided.",
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 36
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "Partnered Oral Degrader Programs",
+    "summary": "Kymera is engaged in partnered oral degrader programs, although specific targets, modalities, E3 ligases, indications, therapeutic areas, and clinical phases have not been disclosed. The information is derived from a corporate presentation dated January 2026. Further details regarding the safety and evidence related to these programs have not been provided.",
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 50
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-485",
+    "summary": "Kymera is developing a targeted protein degradation drug program named KT-485, which specifically targets IRAK4. This oral degrader is currently in Phase 1 clinical trials and is aimed at treating Th1-Th17 and Th2 diseases. The company claims that KT-485 is highly selective, potent, and shows an absence of any QTc signal. Further details about the program can be found in their corporate presentation from January 2026.",
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 51
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "CDK2 MG",
+    "summary": "Kymera is developing a targeted protein degradation program called CDK2 MG, which focuses on the selective degradation of the CDK2 protein. This program utilizes a molecular glue degrader modality and aims to treat indications such as breast cancer and solid tumors within the oncology therapeutic area. The drug is designed to selectively degrade CDK2 while sparing closely related kinases like CDK1, and it is reported to have a minimal impact on healthy tissue. There are currently no disclosed clinical phases for this program.",
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics Corporate Presentation_January 2026_R.pdf",
+        "slide": 52
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "IRAKIMiD Degrader KT-413",
+    "summary": "Kymera is developing a targeted protein degradation drug program called IRAKIMiD Degrader KT-413, which specifically targets MYD88MT. The program is focused on treating various indications, including MYD88MT DLBCL, PCNSL, and WM, within the oncology therapeutic area. KT-413 is being evaluated in both combination therapies and as a monotherapy. The company has outlined a clinical strategy aimed at enabling accelerated approval and has reported profound antitumor activity in preclinical models for both single-agent and combination treatments. Evidence supporting these claims can be found in their December 2021 presentation.",
+    "evidence": [
+      {
+        "document": "KYM_R_D_Day_Deck_Final_Dec_2021.pdf",
+        "slide": 57
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "STAT3 (KT-333)",
+    "summary": "Kymera is developing a targeted protein degradation program focused on STAT3, designated as KT-333. Currently, there are no specific indications, clinical phases, or E3 ligases disclosed for this program. The information available is primarily from a December 2022 investor webcast presentation. Further details regarding the program's targets, modalities, and safety have not been provided.",
+    "evidence": [
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 7
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "IRAKIMiD (KT-413)",
+    "summary": "Kymera is developing a targeted protein degradation program called IRAKIMiD (KT-413). As of December 2022, specific details regarding the targets, modalities, E3 ligases, indications, therapeutic areas, clinical phases, claims, and safety data have not been disclosed. The information available is limited to a presentation slide from an investor webcast.",
+    "evidence": [
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 15
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "IRAK4 (KT-474)",
+    "summary": "Kymera is developing a targeted protein degradation program focused on IRAK4, designated as KT-474. Currently, there are no specific indications, targets, or clinical phases disclosed for this program. The information available is primarily from a December 2022 investor webcast presentation. Further details regarding the program's modalities, E3 ligases, or safety data have not been provided.",
+    "evidence": [
+      {
+        "document": "Kymera_December_2022_Investor_Webcast_Presentation.pdf",
+        "slide": 23
+      }
+    ]
+  },
+  {
+    "company": "kymera",
+    "program_name": "KT-621 / STAT6 Degrader",
+    "summary": "Kymera is developing a targeted protein degradation drug program named KT-621, which is an oral small molecule degrader medicine. The program is currently in Phase 1 clinical trials. A data announcement regarding KT-621 was made in June 2025, providing insights into its progress. No specific targets, indications, or therapeutic areas have been disclosed for this program.",
+    "evidence": [
+      {
+        "document": "Kymera Therapeutics KT-621 Phase 1 Healthy Volunteer Data Announcement_June 2025.pdf",
+        "slide": 1
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "PIPELINE_OVERVIEW",
+    "summary": "C4 Therapeutics is advancing a pipeline focused on targeted protein degradation (TPD) across various therapeutic areas, including cancer, neurodegeneration, and inflammation. The company is developing degraders targeting multiple proteins, such as BRAF V600E, BRD9, and IKZF1/3, with indications spanning from multiple myeloma to non-small cell lung cancer. Their modalities include both MonoDAC and BiDAC approaches, utilizing E3 ligases like CRBN for effective degradation. C4T has progressed several candidates into clinical phases, demonstrating promising efficacy and safety profiles, including notable response rates in multiple myeloma patients. The company aims to address unmet medical needs by targeting traditionally undruggable proteins and overcoming resistance mechanisms associated with existing therapies.",
+    "evidence": [
+      {
+        "document": "CEMSI_ASH Investor Presentation_FINAL_FINAL_12.9.24__v4.pdf",
+        "slide": 4
+      },
+      {
+        "document": "CEMSI_ASH Investor Presentation_FINAL_FINAL_12.9.24__v4.pdf",
+        "slide": 6
+      },
+      {
+        "document": "CEMSI_ASH Investor Presentation_FINAL_FINAL_12.9.24__v4.pdf",
+        "slide": 10
+      },
+      {
+        "document": "CEMSI_ASH Investor Presentation_FINAL_FINAL_12.9.24__v4.pdf",
+        "slide": 17
+      },
+      {
+        "document": "CEMSI_ASH Investor Presentation_FINAL_FINAL_12.9.24__v4.pdf",
+        "slide": 34
+      },
+      {
+        "document": "CEMSI_ASH Investor Presentation_FINAL_FINAL_12.9.24__v4.pdf",
+        "slide": 35
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 3
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 4
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 5
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 6
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 7
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 12
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 4
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 5
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 8
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 9
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 16
+      },
+      {
+        "document": "C4T_AACR 2022_CFT7455 Discovery and Characterization.pdf",
+        "slide": 18
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 1
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 9
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 11
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 26
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 28
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 1
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 5
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 6
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 9
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 11
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 14
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 15
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 18
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 19
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 20
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 21
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 22
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 23
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 26
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 27
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 29
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 30
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 31
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 32
+      },
+      {
+        "document": "C4_Discovery_on_Target_2022_FINAL.pdf",
+        "slide": 33
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 1
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 7
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 10
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 23
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 29
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 31
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 32
+      },
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 6
+      },
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 7
+      },
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 8
+      },
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 12
+      },
+      {
+        "document": "CFT8919_Pre_Clinical_Data.pdf",
+        "slide": 11
+      },
+      {
+        "document": "CFT8919_Pre_Clinical_Data.pdf",
+        "slide": 13
+      },
+      {
+        "document": "CFT8919_Pre_Clinical_Data.pdf",
+        "slide": 16
+      },
+      {
+        "document": "CFT8919_Pre_Clinical_Data.pdf",
+        "slide": 18
+      },
+      {
+        "document": "CFT8919_Pre_Clinical_Data.pdf",
+        "slide": 19
+      },
+      {
+        "document": "C4_BRD9_TPD_Summit_Presentation.pdf",
+        "slide": 3
+      },
+      {
+        "document": "C4_BRD9_TPD_Summit_Presentation.pdf",
+        "slide": 5
+      },
+      {
+        "document": "C4_BRD9_TPD_Summit_Presentation.pdf",
+        "slide": 8
+      },
+      {
+        "document": "C4_BRD9_TPD_Summit_Presentation.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4_BRD9_TPD_Summit_Presentation.pdf",
+        "slide": 11
+      },
+      {
+        "document": "C4_BRD9_TPD_Summit_Presentation.pdf",
+        "slide": 15
+      },
+      {
+        "document": "C4_BRD9_TPD_Summit_Presentation.pdf",
+        "slide": 18
+      },
+      {
+        "document": "C4_BRD9_TPD_Summit_Presentation.pdf",
+        "slide": 21
+      },
+      {
+        "document": "C4_BRD9_TPD_Summit_Presentation.pdf",
+        "slide": 23
+      },
+      {
+        "document": "C4_BRD9_TPD_Summit_Presentation.pdf",
+        "slide": 29
+      },
+      {
+        "document": "Dhakal_IMS 2025_Cemsi_Oral_Final 09152025 (002) (1).pdf",
+        "slide": 16
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 4
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 5
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 9
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 3
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 5
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 6
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 11
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 12
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 14
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 15
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 16
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 19
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 21
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 22
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 23
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 24
+      },
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 26
+      },
+      {
+        "document": "CFT7455_Phase_1_2_Cohort_A_Data_Investor_Call.pdf",
+        "slide": 23
+      },
+      {
+        "document": "CFT7455_Phase_1_2_Cohort_A_Data_Investor_Call.pdf",
+        "slide": 25
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 14
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 39
+      },
+      {
+        "document": "CFT1946 ESMO Oral Presentation_FINAL 9.13.24.pdf",
+        "slide": 9
+      },
+      {
+        "document": "CFT1946 ESMO Oral Presentation_FINAL 9.13.24.pdf",
+        "slide": 10
+      },
+      {
+        "document": "CFT1946 ESMO Oral Presentation_FINAL 9.13.24.pdf",
+        "slide": 12
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 3
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 4
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 5
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 6
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 7
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 8
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 9
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 10
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 12
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 16
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 4
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 12
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 17
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 37
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 39
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 4
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 6
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 8
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 12
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 13
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 14
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 15
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 16
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 19
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 20
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 22
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 23
+      },
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 24
+      },
+      {
+        "document": "C4_CFT8919_TPD_Summit_Presentation.pdf",
+        "slide": 10
+      },
+      {
+        "document": "C4_CFT8919_TPD_Summit_Presentation.pdf",
+        "slide": 16
+      },
+      {
+        "document": "C4_AACR_Slides_030421_Final_for_posting.pdf",
+        "slide": 9
+      },
+      {
+        "document": "C4_AACR_Slides_030421_Final_for_posting.pdf",
+        "slide": 13
+      },
+      {
+        "document": "CFT7455-ASH 2024 NHL Oral_FINAL.pdf",
+        "slide": 5
+      },
+      {
+        "document": "CFT7455-ASH 2024 NHL Oral_FINAL.pdf",
+        "slide": 8
+      },
+      {
+        "document": "CFT7455-ASH 2024 NHL Oral_FINAL.pdf",
+        "slide": 21
+      },
+      {
+        "document": "CFT7455-ASH 2024 NHL Oral_FINAL.pdf",
+        "slide": 22
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "Cemsidomide",
+    "summary": "C4 Therapeutics is developing Cemsidomide, a targeted protein degradation drug that targets IKZF1 and IKZF3. The drug is being investigated for multiple indications, including relapsed refractory multiple myeloma and non-Hodgkin’s lymphoma, specifically in patients who have received two or more lines of therapy. Cemsidomide is currently in various clinical phases, including First-in-Human, Phase 1, Phase 1b, Phase 2, and Phase 3 trials. The program aims to characterize the safety and tolerability of the drug, with potential claims for accelerated and full approval.",
+    "evidence": [
+      {
+        "document": "CEMSI_ASH Investor Presentation_FINAL_FINAL_12.9.24__v4.pdf",
+        "slide": 24
+      },
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 8
+      },
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 6
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 7
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 31
+      },
+      {
+        "document": "CEMSI_IMS Investor Presentation_FINAL_9.16.25.pdf",
+        "slide": 35
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "CFT1946",
+    "summary": "C4 Therapeutics is developing CFT1946, a targeted protein degrader aimed at treating various solid tumors driven by BRAF V600 mutations, including melanoma and colorectal cancer. The drug is currently in ongoing clinical trials, specifically Phase 1 and Phase 1b, and has shown preliminary proof of mechanism and anti-tumor activity in patients with BRAF V600E/K/R mutations. Notable findings include significant reductions in liver metastases and tumor size, as well as degradation of the BRAF V600E protein in post-treatment biopsies. CFT1946 has demonstrated a well-tolerated safety profile, with minimal severe adverse events reported. The data support its potential as a novel treatment option for BRAF V600X solid tumors, particularly in patients who have progressed on existing BRAF inhibitors.",
+    "evidence": [
+      {
+        "document": "C4T_AACR 2022_CFT1946 Preclinical Evaluation.pdf",
+        "slide": 11
+      },
+      {
+        "document": "CFT1946 2024_TPD_Summit (ESMO encore)_30Oct2024_Final_Approved-24Oct_210pm.pdf",
+        "slide": 3
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 1
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 8
+      },
+      {
+        "document": "CFT1946 Investor Presentation_Phase 1 _ 9.13.24_FINAL_2.pdf",
+        "slide": 23
+      },
+      {
+        "document": "CFT1946 ESMO Oral Presentation_FINAL 9.13.24.pdf",
+        "slide": 13
+      },
+      {
+        "document": "CFT1946 ESMO Oral Presentation_FINAL 9.13.24.pdf",
+        "slide": 14
+      },
+      {
+        "document": "AACR-2023_CFT1946_presentation_FINAL.pdf",
+        "slide": 15
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "CFT8919",
+    "summary": "C4 Therapeutics is developing CFT8919, a targeted protein degradation drug aimed at treating EGFR L858R-driven tumors, particularly in non-small cell lung cancer (NSCLC). This program features a mutant-selective degrader modality that is orally bioavailable and demonstrates intracranial activity. Currently in Phase 1 clinical trials, CFT8919 has shown potent activity in vitro and in vivo, including efficacy against models with secondary mutations. The drug may be used as a single agent in the frontline setting and has the potential to be combined with approved EGFR inhibitors. Evidence supporting its clinical evaluation includes data from various preclinical studies and presentations.",
+    "evidence": [
+      {
+        "document": "2026 January Deck_FINAL_1.18.26.pdf",
+        "slide": 20
+      },
+      {
+        "document": "CFT8919_Pre_Clinical_Data.pdf",
+        "slide": 1
+      },
+      {
+        "document": "CFT8919_Pre_Clinical_Data.pdf",
+        "slide": 7
+      },
+      {
+        "document": "CFT8919_Pre_Clinical_Data.pdf",
+        "slide": 17
+      },
+      {
+        "document": "C4_CFT8919_TPD_Summit_Presentation.pdf",
+        "slide": 6
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "Project Optimus Data",
+    "summary": "C4 Therapeutics is currently advancing its Project Optimus Data program, although specific details regarding targets, modalities, E3 ligases, indications, therapeutic areas, and clinical phases have not been disclosed. The program's information is summarized in a document dated October 8K Deck from 2025. Further details about safety and evidence related to the program have not been provided.",
+    "evidence": [
+      {
+        "document": "October 8K Deck_10.15.2025_FINAL.pdf",
+        "slide": 19
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "CFT8634",
+    "summary": "C4 Therapeutics is developing CFT8634, a BiDAC™ degrader currently in Phase 1/2 clinical trials. The drug targets SMARCB1-null solid tumors and synovial sarcoma. CFT8634 has shown robust efficacy in patient-derived xenograft models of synovial sarcoma and is characterized as a potent, selective, and orally bioavailable compound. Additionally, it selectively inhibits the growth of BAF-perturbed cell lines. Evidence supporting these claims was presented in a document from the AACR 2022 conference.",
+    "evidence": [
+      {
+        "document": "C4T_AACR 2022_CFT8634 Discovery and Characterization.pdf",
+        "slide": 17
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "CFT7455",
+    "summary": "C4 Therapeutics is developing CFT7455, a targeted protein degradation drug that focuses on the proteins IKZF1 and IKZF3, utilizing a MonoDAC degrader modality with CRBN as the E3 ligase. The drug is currently in Phase 1 clinical trials and is being investigated for multiple myeloma indications, including early line, multi-refractory, and post-transplant settings. CFT7455 has shown a favorable safety profile, being well tolerated with manageable neutropenia, and demonstrates anti-myeloma activity at doses of 75 µg. The treatment regimen follows a 14 days on/14 days off schedule, which supports sustained target degradation and has been associated with immune T-cell activation. The drug's pharmacologic profile is optimized to enhance IKZF1/3 degradation while minimizing off-target effects, and it is positioned for potential accelerated and maintenance approvals in multiple myeloma.",
+    "evidence": [
+      {
+        "document": "C4_2022_TPD_Summit_Final_v2.pdf",
+        "slide": 17
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 7
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 9
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 27
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 35
+      },
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 37
+      },
+      {
+        "document": "C4_AACR_Slides_030421_Final_for_posting.pdf",
+        "slide": 5
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "CFT7455 + Dexamethasone",
+    "summary": "C4 Therapeutics is developing a targeted protein degradation drug program named CFT7455 in combination with Dexamethasone, aimed at treating relapsed/refractory multiple myeloma (R/R MM). The program is currently in the clinical phase, with data presented on December 12, 2023, indicating ongoing research and development efforts. Specific details regarding targets, E3 ligases, and safety have not been disclosed.",
+    "evidence": [
+      {
+        "document": "CFT7455 Data Presentation _FINAL_12.12.23_.pdf",
+        "slide": 28
+      }
+    ]
+  },
+  {
+    "company": "c4_therapeutics",
+    "program_name": "TORPEDO Platform",
+    "summary": "C4 Therapeutics is advancing its TORPEDO Platform, which focuses on targeted protein degradation (TPD). The platform is designed to enable the design, analysis, and prediction of degrader performance, allowing for the development of both mono- and bi-specific degraders (MonoDAC and BiDAC). It emphasizes flexibility in addressing various targets with a tailored approach and aims to optimize catalytic efficiency to enhance the overall degradation process for maximal efficacy. The platform facilitates the rapid delivery of potent drug candidates through an informed and efficient drug discovery process. Evidence supporting these capabilities was presented in a document dated October 27, 2023.",
+    "evidence": [
+      {
+        "document": "Final_TPD_2023_C4T_Covalent Binders_10.27.23.pdf",
+        "slide": 5
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "PIPELINE_OVERVIEW",
+    "summary": "Arvinas is advancing a diverse pipeline of targeted protein degradation (TPD) therapies utilizing PROTAC technology, focusing on various disease-causing proteins across multiple therapeutic areas, including oncology and neurodegenerative diseases. The pipeline includes targets such as AR, BCL2, BRAF, and LRRK2, with indications spanning from prostate cancer and breast cancer to Parkinson's disease. The company is conducting clinical trials at various phases, including Phase 1, Phase 2, and pivotal studies, with promising early results indicating significant tumor growth inhibition and favorable safety profiles. Arvinas aims to address unmet medical needs, particularly in heavily pretreated patient populations, by developing orally bioavailable PROTAC degraders that can effectively target both mutant and wild-type proteins. The pipeline reflects a commitment to innovative therapies that may offer improved outcomes for patients with limited treatment options.",
+    "evidence": [
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 3
+      },
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 12
+      },
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 15
+      },
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 17
+      },
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 18
+      },
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 20
+      },
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 21
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 3
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 4
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 7
+      },
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 20
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 5
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 10
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 11
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 13
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 15
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 16
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 17
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 20
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 21
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 23
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 24
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 27
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 28
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 29
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 30
+      },
+      {
+        "document": "ARV-471 Collaboration Presentation_vF.pdf",
+        "slide": 14
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 1
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 3
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 10
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 12
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 13
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 14
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 15
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 16
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 23
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 25
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 29
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 30
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 31
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 39
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 41
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 42
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 43
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 4
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 8
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 10
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 12
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 13
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 14
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 15
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 17
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 18
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 19
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 22
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 6
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 13
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 16
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 20
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 23
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 26
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 33
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 36
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 41
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 44
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 51
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 58
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 62
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 69
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 10
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 11
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 18
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 23
+      },
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 6
+      },
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 8
+      },
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 9
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 8
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 9
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 14
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 15
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 17
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 19
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 23
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 3
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 4
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 5
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 7
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 9
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 10
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 11
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 14
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 16
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 20
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 25
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 26
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 27
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 28
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 29
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 30
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 34
+      },
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 35
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 7
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 11
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 16
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 3
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 18
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 21
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 3
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 7
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 9
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 10
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 15
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "One program in a Phase 3 study, and two drug candidates in Phase 2",
+    "summary": "Arvinas has a targeted protein degradation drug program that includes one candidate in a Phase 3 study and two candidates in Phase 2. The modalities utilized in this program are PROTAC® degraders, which are being developed for indications in neuroscience and oncology. The company claims a consistent ability to create PROTAC® degraders with drug-like properties, demonstrating signals of clinical efficacy and tolerability. Evidence supporting these claims can be found in their presentation from January 2023.",
+    "evidence": [
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 4
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-471",
+    "summary": "Arvinas is developing ARV-471, a first-in-class oral PROTAC protein degrader targeting the estrogen receptor (ER) for the treatment of various forms of ER+ breast cancer, including 1L ER+ breast cancer and late-line metastatic castrate-resistant prostate cancer. The drug is currently in multiple clinical phases, including Phase 1, Phase 2, and a Phase 3 trial, with evidence of strong efficacy and tolerability in heavily pretreated patients. ARV-471 has demonstrated superior ER degradation compared to existing therapies, with a favorable safety profile and manageable adverse events reported. The company is exploring combinations with CDK4/6 inhibitors and other targeted therapies, aiming for potential approvals in both monotherapy and combination settings. Overall, ARV-471 represents a significant advancement in the treatment landscape for ER+ breast cancer.",
+    "evidence": [
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 6
+      },
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 7
+      },
+      {
+        "document": "ARV-471 Collaboration Presentation_vF.pdf",
+        "slide": 4
+      },
+      {
+        "document": "ARV-471 Collaboration Presentation_vF.pdf",
+        "slide": 5
+      },
+      {
+        "document": "ARV-471 Collaboration Presentation_vF.pdf",
+        "slide": 6
+      },
+      {
+        "document": "ARV-471 Collaboration Presentation_vF.pdf",
+        "slide": 9
+      },
+      {
+        "document": "ARV-471 Collaboration Presentation_vF.pdf",
+        "slide": 10
+      },
+      {
+        "document": "ARV-471 Collaboration Presentation_vF.pdf",
+        "slide": 11
+      },
+      {
+        "document": "ARV-471 Collaboration Presentation_vF.pdf",
+        "slide": 12
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 6
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 7
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 8
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 9
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 22
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 12
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 13
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 4
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 5
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 6
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 8
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 13
+      },
+      {
+        "document": "ARV_SABCS_Clinical Program Update ARV-471.pdf",
+        "slide": 15
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 1
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 6
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 7
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 19
+      },
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 20
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "VERITAC-21",
+    "summary": "Arvinas is advancing its targeted protein degradation program, VERITAC-21, which is currently in Phase 3 clinical trials. The program focuses on ARV-471, a compound that has shown the ability to degrade both ESR1 mutant and wild-type proteins equally. Preliminary results indicate that ARV-471 has demonstrated efficacy signals in patients with both ESR1 mutations and those with wild-type ESR1. Additionally, in patients who have been pretreated with CDK4/6 inhibitors, ER therapies appear to be more effective in ESR1 mutant tumors. The Phase 2 trial of VERITAC also suggested that less-pretreated second-line patients experienced a numerically higher clinical benefit rate.",
+    "evidence": [
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 8
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "bavdegalutamide",
+    "summary": "Arvinas is developing bavdegalutamide, an oral PROTAC targeting androgen receptor (AR) mutations, including AR H875Y and AR T878X, as well as wild-type AR, for the treatment of prostate cancer. The drug is currently in clinical phases 1, 2, and 3, with evidence suggesting a promising efficacy profile; notably, 40% of patients with AR T878X/H875Y mutations experienced PSA reductions greater than 50%. Data indicate that 2 of 7 RECIST evaluable patients achieved durable confirmed partial responses, and 6 of 7 showed tumor reductions. Bavdegalutamide has demonstrated a manageable tolerability profile, with low rates of treatment-related adverse events (TRAEs), primarily Grade 1 or 2, and no Grade 4 TRAEs reported. The company aims to initiate a pivotal trial by the end of 2022, potentially leveraging a companion diagnostic approach for accelerated market entry.",
+    "evidence": [
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 13
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 3
+      },
+      {
+        "document": "ASCO_GU IR presentation_FINAL_draft 021722.pdf",
+        "slide": 5
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "PROTAC®",
+    "summary": "Arvinas is advancing its PROTAC® drug program, which focuses on targeted protein degradation. The program is currently in the first-in-human clinical phase and aims to address indications in neurodegenerative diseases and oncology. The company has not disclosed specific targets or E3 ligases associated with this program. Information regarding safety and evidence supporting the program can be found in their presentation from January 11, 2023.",
+    "evidence": [
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 14
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "oral PROTAC® clinical candidate",
+    "summary": "Arvinas is developing an oral PROTAC® clinical candidate targeting LRRK2. The program is currently in the GLP toxicity studies phase. Preclinical evidence indicates significant reductions in LRRK2 levels, with reported decreases of 87% in the cerebellum and cortex, and 89% in the striatum of cynomolgus monkeys following oral dosing. Additionally, over 85% degradation of LRRK2 was observed in deep brain regions. This information was presented in a document dated January 11, 2023.",
+    "evidence": [
+      {
+        "document": "JPM Presentation_Final_01.11.23.pdf",
+        "slide": 19
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "vepdegestrant",
+    "summary": "Arvinas is developing a targeted protein degradation drug program called vepdegestrant, which targets the ESR1 protein using a PROTAC ER degrader modality. This program is focused on treating ER+/HER2- advanced breast cancer, including both advanced and metastatic cases. Vepdegestrant is currently in clinical development for patients in the second line or later stages of treatment. Preliminary results indicate a 2.9-month improvement in progression-free survival (PFS) over fulvestrant, with a reported median PFS of 5 months. The program is positioned as a potential best-in-class treatment in the oncology therapeutic area. Evidence supporting these claims has been presented in documents from the VERITAC-2 trial and Arvinas' corporate presentations.",
+    "evidence": [
+      {
+        "document": "VERITAC-2 Trial Results - ASCO 2025.pdf",
+        "slide": 6
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 70
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-110",
+    "summary": "Arvinas is developing ARV-110, a PROTAC-based therapeutic targeting the androgen receptor (AR) for various prostate cancer indications, including castration-sensitive prostate cancer (CSPC) and metastatic castration-resistant prostate cancer (mCRPC). The program is currently in multiple clinical phases, including Confirmatory Phase 3, Phase 2, and Pivotal Phase 2 trials. ARV-110 has shown early clinical benefits, particularly in patients with high unmet needs, including those with prior chemotherapy and AR mutations. Notably, it has demonstrated a 40% PSA50 response in specific patient subgroups and a well-tolerated safety profile, suggesting potential for frontline use. The addressable patient population in the U.S. exceeds 250,000 annually, indicating a significant market opportunity.",
+    "evidence": [
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 3
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 4
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 24
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 26
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 27
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 34
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 37
+      },
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 38
+      },
+      {
+        "document": "2021 TPD Summit - Arvinas Presentation.pdf",
+        "slide": 17
+      },
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 12
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV‐110",
+    "summary": "Arvinas is advancing its targeted protein degradation program, specifically the drug candidate ARV-110, utilizing the PROTAC modality. The company has reported a preclinical profile that suggests potential clinical benefits and has demonstrated efficacy signals in a heavily pretreated patient population with significant unmet medical needs, where traditional inhibitors have not succeeded. Arvinas is positioned to achieve key milestones in 2020 and beyond, reinforcing confidence in its pipeline of degraders and validating the concept of PROTAC targeted protein degradation.",
+    "evidence": [
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 6
+      },
+      {
+        "document": "ARVN ASCO 2020_VF.pdf",
+        "slide": 26
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARDENT Phase 2",
+    "summary": "Arvinas is advancing its ARDENT Phase 2 program, which focuses on the oral drug ARV-110. The program has identified a molecularly defined late-line patient population that may respond best to the treatment. ARV-110 has shown good tolerability, allowing for dose escalation up to 700 mg daily, which may enable its use in earlier treatment lines. Additionally, the drug has demonstrated activity in patients with wild-type androgen receptors, suggesting potential for broader application. Notably, a reduction in prostate-specific antigen (PSA) levels has been linked to plasma exposure, and the drug has exhibited promising antitumor activity in heavily pre-treated patients with limited options. The safety data was last updated on October 2, 2020.",
+    "evidence": [
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 28
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARDENT Phase 2 expansion trial",
+    "summary": "Arvinas is conducting the ARDENT Phase 2 expansion trial, which follows an earlier Phase 1 study. The program focuses on an oral modality and aims to evaluate the drug's potential benefits in patients who are more dependent on androgen receptors. Preliminary findings suggest a strong signal in molecularly defined patient populations, with a high potential for patient benefit in earlier-line treatments. The drug has been reported to be well tolerated, with no treatment-related adverse events greater than grade 2 noted as of the safety cut-off date on October 2, 2020.",
+    "evidence": [
+      {
+        "document": "ARVN_Clinical Program Update ARV-110 .pdf",
+        "slide": 35
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": [
+      "vepdegestrant",
+      "bavdegalutamide",
+      "luxdegalutamide (JSB462)",
+      "ARV-102",
+      "ARV-393",
+      "ARV-806"
+    ],
+    "summary": "Arvinas is developing a pipeline of targeted protein degradation (TPD) therapies, primarily utilizing the PROTAC modality, with a focus on oncology and neuroscience. The pipeline includes several programs: vepdegestrant, bavdegalutamide, luxdegalutamide (JSB462), ARV-102, ARV-393, and ARV-806. Notably, the company has reported a positive topline readout from a Phase 3 clinical trial, positioning one of its candidates as potentially the first to market for breast cancer. The indications for these programs are primarily centered around breast cancer.",
+    "evidence": [
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 4
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-102",
+    "summary": "Arvinas is developing a targeted protein degradation program named ARV-102, which focuses on degrading proteins associated with neurodegenerative diseases. The program targets LRRK2, Tau, mHTT, and α-syn, and is currently in Phase 1 clinical trials. ARV-102 aims to address conditions such as Alzheimer's, Huntington's disease, multiple system atrophy (MSA), progressive supranuclear palsy (PSP), and Parkinson's disease. The drug utilizes PROTAC modalities and has shown potential to cross the blood-brain barrier, degrade disease-causing proteins, and impact clinically relevant biomarkers in primates. Claims include the ability to increase lysosome number and degradative capacity, as well as reduce pathological tau. However, the safety and effectiveness of ARV-102 have not yet been established.",
+    "evidence": [
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 11
+      },
+      {
+        "document": "Stifel_Neuro_2-14-2024final.pdf",
+        "slide": 14
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-027",
+    "summary": "Arvinas is developing a targeted protein degradation program named ARV-027, which focuses on the polyQ-AR target using the PROTAC modality. This program is situated within the therapeutic area of neurology. Currently, there are no disclosed clinical phases, indications, or safety claims associated with ARV-027. The information regarding this program was presented in Arvinas' corporate presentation dated November 5, 2025.",
+    "evidence": [
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 29
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-393",
+    "summary": "Arvinas is developing a targeted protein degradation drug program named ARV-393, which focuses on the BCL6 target using the PROTAC modality. The program is aimed at treating indications such as nTFHL-AI, relapsed/refractory mature B-cell non-Hodgkin lymphoma (NHL), and relapsed/refractory non-Hodgkin lymphoma. Currently, ARV-393 is in Phase 1 clinical trials, where it is being evaluated for pharmacodynamics, pharmacokinetics, preliminary antitumor activity, safety, and tolerability. The dosing may be adjusted based on safety and tolerability assessments by a Cohort Review Committee, although the safety and effectiveness of the drug have not yet been established.",
+    "evidence": [
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 34
+      },
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 47
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-806",
+    "summary": "Arvinas is developing a targeted protein degradation drug program named ARV-806, which specifically targets the KRAS G12D mutation. This program utilizes the PROTAC modality and is focused on oncology therapeutic areas. As of now, there are no disclosed clinical phases or indications for ARV-806, and its safety and effectiveness have not been established. The information regarding this program is detailed in the company's corporate presentation from November 2025.",
+    "evidence": [
+      {
+        "document": "ARVINAS Corporate Presentation 2025_Nov_5 Final.pdf",
+        "slide": 48
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "ARV-766",
+    "summary": "Arvinas is developing ARV-766, which is currently in Phase 1 and interim Phase 2 clinical trials for the treatment of metastatic castration-sensitive prostate cancer (CSPC) and metastatic castration-resistant prostate cancer (mCRPC). The drug has shown promising efficacy signals, with 3 of 3 patients with co-occurring AR T878/H875/L702H mutations achieving a PSA50 response, and 42% of patients with AR ligand-binding domain (LBD) mutations also achieving PSA50. Additionally, two of four RECIST-evaluable patients with AR LBD mutations achieved partial responses. ARV-766 has been well tolerated, with low rates of discontinuation or dose reduction and the majority of treatment-related adverse events being Grade 1 or 2, with no Grade 4 or higher events reported. The emerging efficacy signals and tolerability profile support its continued development in both mCRPC and CSPC.",
+    "evidence": [
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 1
+      },
+      {
+        "document": "June 2023 ARV-766 Disclosure_FINAL.pdf",
+        "slide": 3
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "BCL6",
+    "summary": "Arvinas is developing a targeted protein degradation program focused on the BCL6 protein, utilizing their PROTAC® technology. The program aims to address B-cell malignancies, with reported evidence indicating over 95% degradation of BCL6 in vivo. There are no specific details provided regarding clinical phases or safety data. The information was presented at the 2020 TPD Summit.",
+    "evidence": [
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 18
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "PROTAC® degraders",
+    "summary": "Arvinas is focused on developing PROTAC® degraders within its targeted protein degradation (TPD) drug program. The company is currently engaged in registrational studies and is working on building the necessary resources and capabilities to bring these therapeutics to market. Arvinas has reported that its first PROTAC® degraders have shown benefits for patients in these studies. The company utilizes its PROTAC® Discovery Engine to deliver candidates that target specific tissues and diseases, with a goal of sustainably nominating at least one clinical candidate per year.",
+    "evidence": [
+      {
+        "document": "2020 TPD Summit_John H Presentation_Final-10.13.2020-V2.pdf",
+        "slide": 22
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "Neurology Research Programs",
+    "summary": "Arvinas is engaged in neurology research programs focused on targeted protein degradation (TPD). Currently, there are no specific targets, modalities, E3 ligases, indications, or therapeutic areas disclosed in their pipeline. Additionally, there are no details regarding clinical phases, safety, or claims associated with these programs. The information available is based on a presentation from the NAPDC 2020 conference.",
+    "evidence": [
+      {
+        "document": "NAPDC 2020-Arvinas-Berlin.pdf",
+        "slide": 18
+      }
+    ]
+  },
+  {
+    "company": "arvinas",
+    "program_name": "VERITAC",
+    "summary": "Arvinas is advancing its targeted protein degradation drug program named VERITAC, which is currently in clinical development with candidates in Phase 2 and Phase 3 trials. The program does not specify particular targets, modalities, or E3 ligases at this time. It has been noted to have a potential best-in-class profile, as indicated in a presentation at the SABCS on December 8, 2022. Further details regarding safety and specific indications have not been disclosed.",
+    "evidence": [
+      {
+        "document": "SABCS IR deck December 8 2022.pdf",
+        "slide": 17
+      }
+    ]
+  },
+  {
+    "company": "nurix",
+    "program_name": "PIPELINE_OVERVIEW",
+    "summary": "Nurix is developing a targeted protein degradation (TPD) program focused on the protein BTK, utilizing a degrader modality. The pipeline includes indications for various conditions such as B-cell malignancies, atopic dermatitis, and multiple sclerosis, among others. The program is currently in multiple clinical phases, including Phase 1 and Phase 2 trials. The degrader is noted for its ability to overcome BTK inhibitor resistance mutations and for its selective degradation of BTK without off-target effects. Additionally, it has shown potential to cross the blood-brain barrier and demonstrate clinical responses in patients with advanced CNS disease. Overall, the program aims to provide a novel mechanism of action against a clinically validated target.",
+    "evidence": [
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 3
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 7
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 9
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 16
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 25
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 26
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 27
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 25
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 46
+      }
+    ]
+  },
+  {
+    "company": "nurix",
+    "program_name": "bexobrutideg",
+    "summary": "Nurix is developing a targeted protein degradation drug called bexobrutideg, which targets Bruton's tyrosine kinase (BTK) and is being investigated for various indications, including chronic lymphocytic leukemia (CLL), non-Hodgkin lymphoma (NHL), and advanced central nervous system (CNS) diseases. The drug is currently in multiple clinical phases, including Phase 1, Phase 1/2, and Phase 2, with claims of accelerated approval and the ability to overcome BTK inhibitor resistance mutations. Bexobrutideg is noted for its catalytic action, high potency, and ability to cross the blood-brain barrier, demonstrating robust clinical activity in challenging B-cell malignancies. The drug is designed to degrade BTK proteins, effectively removing all functions of BTK, unlike traditional inhibitors.",
+    "evidence": [
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 8
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 10
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 45
+      }
+    ]
+  },
+  {
+    "company": "nurix",
+    "program_name": "Bexobrutideg",
+    "summary": "Nurix is developing Bexobrutideg, a targeted protein degrader aimed at the Bruton's tyrosine kinase (BTK) for the treatment of various B-cell malignancies, including chronic lymphocytic leukemia (CLL) and central nervous system (CNS) diseases. The drug is designed to overcome resistance mutations associated with traditional BTK inhibitors and is noted for its ability to cross the blood-brain barrier, demonstrating clinical activity in advanced CNS disease. A pivotal trial, DAYBreak CLL-201, is set to begin in October 2025, with additional studies, including a Phase 1b/2 combination study and a confirmatory Phase 3 trial, planned for 2026. Bexobrutideg is characterized by its catalytic action, which allows for effective degradation of BTK at low concentrations, and it is positioned as a potential best-in-class option in its category.",
+    "evidence": [
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 10
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 11
+      },
+      {
+        "document": "JPM 2026 Investor Presentation FINAL.pdf",
+        "slide": 22
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 6
+      },
+      {
+        "document": "ASH 2025 Investor conference call - FINAL On site.pdf",
+        "slide": 8
+      }
+    ]
+  }
+]
