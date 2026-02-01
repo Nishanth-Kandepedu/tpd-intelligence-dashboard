@@ -1,0 +1,15 @@
+# Raw & intermediate data (never deploy)
+data/raw/
+data/intermediate/
+data/extracted/
+
+# OS junk
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
