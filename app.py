@@ -1,124 +1,94 @@
 import json
-import streamlit as st
 from pathlib import Path
+import streamlit as st
 
 # =========================
-# CONFIG
+# PAGE CONFIG
 # =========================
 st.set_page_config(
     page_title="TPD Intelligence Dashboard",
-    layout="wide"
+    layout="wide",
 )
-
-DATA_DIR = Path("data/final")
-PROGRAMS_FILE = DATA_DIR / "programs.json"
-SUMMARIES_FILE = DATA_DIR / "program_summaries_timeaware.json"
-
-# =========================
-# NORMALIZATION HELPERS
-# =========================
-def norm_company(c):
-    return c.strip().lower().replace(" ", "_")
-
-def norm_program(p):
-    return (
-        p.replace("®", "")
-         .replace("-", "")
-         .replace(" ", "")
-         .lower()
-    )
 
 # =========================
 # LOAD DATA (READ-ONLY)
 # =========================
-programs = json.load(open(PROGRAMS_FILE))
-summaries_raw = json.load(open(SUMMARIES_FILE))
+PROGRAMS_PATH = Path("data/final/programs.json")
+SUMMARIES_PATH = Path("data/final/program_summaries_timeaware.json")
 
-# Build summary lookup with normalized keys
-summaries = {
-    (norm_company(s["company"]), norm_program(s["program_name"])): s
-    for s in summaries_raw
+programs = json.load(open(PROGRAMS_PATH))
+summaries = json.load(open(SUMMARIES_PATH))
+
+# Index summaries for fast lookup
+summary_index = {
+    (s["company"].lower(), s["program_name"]): s
+    for s in summaries
 }
-
-# =========================
-# SIDEBAR FILTERS
-# =========================
-st.sidebar.markdown("## Filters")
-
-companies = sorted({p["company"] for p in programs})
-company = st.sidebar.selectbox("Company", companies)
-
-programs_for_company = sorted(
-    p["program_name"]
-    for p in programs
-    if p["company"] == company
-)
-
-program = st.sidebar.selectbox("Program", programs_for_company)
 
 # =========================
 # HEADER
 # =========================
-st.markdown(
-    "## 🧬 TPD Intelligence Dashboard\n"
-    "_Time-aware, evidence-backed program summaries_"
+st.title("🧬 TPD Intelligence Dashboard")
+st.caption("Time-aware, evidence-backed program summaries")
+
+# =========================
+# SIDEBAR FILTERS
+# =========================
+companies = sorted(set(p["company"] for p in programs))
+company = st.sidebar.selectbox("Company", companies)
+
+company_programs = sorted(
+    [p for p in programs if p["company"] == company],
+    key=lambda x: x["program_name"]
 )
 
-st.markdown(f"### {program}")
+program_names = [p["program_name"] for p in company_programs]
+program_name = st.sidebar.selectbox("Program", program_names)
 
-# =========================
-# FETCH SUMMARY
-# =========================
-summary = summaries.get(
-    (norm_company(company), norm_program(program))
+program = next(
+    p for p in company_programs if p["program_name"] == program_name
 )
 
+summary = summary_index.get((company.lower(), program_name))
+
 # =========================
-# SUMMARY SECTION
+# MAIN CONTENT
 # =========================
-if summary and summary.get("summary"):
+st.subheader(program_name)
+
+# ---------- SUMMARY ----------
+if summary:
     st.markdown(summary["summary"])
 else:
-    st.warning("No summary available.")
+    st.warning("No summary available for this program.")
 
-# =========================
-# SOURCE EVIDENCE
-# =========================
-st.markdown("### 📄 Source Evidence")
+st.divider()
 
-if summary and summary.get("evidence"):
-    for e in summary["evidence"]:
-        doc = e.get("document", "Unknown document")
-        slide = e.get("slide")
-        if slide is not None:
-            st.markdown(f"- **{doc}**, slide {slide}")
-        else:
-            st.markdown(f"- **{doc}**")
+# ---------- PROGRAM FACTS ----------
+st.subheader("Program Facts")
+
+def render_list(title, items):
+    if items:
+        st.markdown(f"**{title}:**")
+        for i in sorted(items):
+            st.markdown(f"- {i}")
+
+render_list("Targets", program.get("targets"))
+render_list("Modalities", program.get("modalities"))
+render_list("E3 Ligases", program.get("e3_ligases"))
+render_list("Indications", program.get("indications"))
+render_list("Therapeutic Areas", program.get("therapeutic_areas"))
+render_list("Clinical Phases", program.get("clinical_phases"))
+
+st.divider()
+
+# ---------- SOURCE EVIDENCE ----------
+st.subheader("Source Evidence")
+
+evidence = program.get("evidence", [])
+if evidence:
+    for e in evidence:
+        st.markdown(f"- **{e['document']}**, slide {e['slide']}")
 else:
-    st.markdown("_No source evidence available._")
-
-# =========================
-# PROGRAM FACTS (OPTIONAL)
-# =========================
-with st.expander("Program Facts"):
-    prog = next(
-        p for p in programs
-        if p["company"] == company and p["program_name"] == program
-    )
-
-    def show_list(label, items):
-        if items:
-            st.markdown(f"**{label}:** {', '.join(items)}")
-
-    show_list("Targets", prog.get("targets", []))
-    show_list("Modalities", prog.get("modalities", []))
-    show_list("E3 Ligases", prog.get("e3_ligases", []))
-    show_list("Indications", prog.get("indications", []))
-    show_list("Therapeutic Areas", prog.get("therapeutic_areas", []))
-    show_list("Clinical Phases", prog.get("clinical_phases", []))
-
-st.caption(
-    "Generated from publicly available disclosures. "
-    "Read-only demo."
-)
+    st.info("No source evidence available.")
 
